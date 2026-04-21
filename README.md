@@ -27,15 +27,37 @@ My work sits at the intersection of **AI systems engineering** (tool-use loops, 
 
 ## 🚀 Currently Shipping
 
+- 👁️ **[The Witness](https://github.com/crastatelvin/the-witness)** — a privacy-first telemetry system that tracks system stress and streams non-dual AI interventions to an animated glassmorphic dashboard in real-time.
+- 📡 **[PULSE LLMOps](https://github.com/crastatelvin/pulse-llmops)** — a full-stack observability platform for production AI workloads, pushing live metrics over WebSockets.
 - 🔥 **[FORGE](https://github.com/crastatelvin/forge-mcp-server)** — a custom implementation of Anthropic's Model Context Protocol with 10 typed tools, a live WebSocket dashboard, and a built-in Claude chat tab. **[Live demo →](https://forge-mcp-server.vercel.app)**
 - 🧠 **[NEXUS Research](https://github.com/crastatelvin/nexus-research)** — a four-agent research pipeline (SCOUT → ANALYST → CRITIC → SCRIBE) that turns a question into an executive brief. Watch the agents think in real time over WebSocket.
-- 📓 **Building in public** — small daily commits across the six projects below. Follow along.
+- 📓 **Building in public** — small daily commits across the projects below. Follow along.
 
 ---
 
 ## 📦 Featured Projects
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ [The Witness](https://github.com/crastatelvin/the-witness)
+
+Deep Telemetry & Non-Dual Intervention Engine. Monitors native OS stress (CPU/RAM) and pushes live philosophical AI interventions to an animated, God-level glassmorphism dashboard.
+
+**Stack:** Next.js 14 · Node.js · WebSockets · Tailwind CSS · Framer Motion
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 [PULSE LLMOps](https://github.com/crastatelvin/pulse-llmops)
+
+Real-Time LLMOps Monitoring and Observability Platform. Captures LLM calls, tracks latency/tokens/costs, and pushes insights to a live KPI dashboard over WebSockets.
+
+**Stack:** FastAPI · React 18 · SQLite · WebSockets
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
