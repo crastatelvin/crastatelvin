@@ -194,7 +194,3 @@ Hands-on digital forensics toolkit. Evidence analysis, anomaly detection, and si
 ⭐ **If any of the projects above saved you time — or you want to talk MCP, agents, or AI-native product work — star a repo or drop me a line.**
 
 </div>
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](./LICENSE).
