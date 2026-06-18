@@ -271,11 +271,17 @@ Real-Time LLMOps Monitoring and Observability Platform. Captures LLM calls, trac
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/crasta-telvin">
+  <a href="https://www.linkedin.com/in/crasta-telvin" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
   <a href="mailto:crastatelvin@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://discord.com/users/kissofdeath528" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="Discord" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/i.am.aja" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" />
   </a>
 </p>
 
