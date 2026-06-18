@@ -38,6 +38,114 @@ I am an **AI Systems Engineer & Full-Stack Developer** based in Bengaluru, India
 <tr>
 <td width="50%" valign="top">
 
+### 📄 [Documind RAG](https://github.com/crastatelvin/TAYANA-ASSIGNMENTS)
+
+Next-generation document intelligence engine. Upload complex PDFs or datasets, query them in natural language, and get instant answers with interactive citation maps and precise text highlighting.
+
+**Stack:** Next.js · FastAPI · LLaMA 3 · LangChain · Pinecone · Tailwind CSS
+
+🌐 [Live Demo](https://documind-kohl.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [Telvyn Hybrid AI](https://github.com/crastatelvin/Telvyn-Hybrid-AI)
+
+Intelligent hybrid execution interface bridging local offline models and cloud LLMs. Optimizes inference cost and latency by routing queries dynamically based on complexity and security requirements.
+
+**Stack:** Streamlit · Ollama · LangChain · Python · Groq · OpenAI
+
+🌐 [Live Demo](https://telvyn-hybrid-ai-1111.streamlit.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔥 [Forge MCP Server](https://github.com/crastatelvin/forge-mcp-server)
+
+Universal MCP server exposing 10 sandboxed tools over HTTP, WebSocket, and MCP's native shape. Premium React dashboard with live stats, interactive tool tester, and inline Claude chat.
+
+**Stack:** FastAPI · Pydantic 2 · React 18 · WebSocket · Anthropic
+
+🌐 [Live Demo](https://forge-mcp-server.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 💎 [ONYX](https://github.com/crastatelvin/ONYX)
+
+Sleek, interactive data visualization and landing interface. Features custom canvas graphics, smooth micro-animations, and responsive layouts designed for high-end digital experiences.
+
+**Stack:** HTML5 · Vanilla JS · Tailwind CSS · GitHub Pages
+
+🌐 [Live Demo](https://crastatelvin.github.io/ONYX/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 [Nexus Research](https://github.com/crastatelvin/nexus-research)
+
+Multi-agent research platform. Four specialized agents collaborate through a live ReactFlow pipeline, streaming progress over WebSockets and exporting a branded PDF brief.
+
+**Stack:** FastAPI · Groq (LLaMA 3.3) · React 19 · ReactFlow · jsPDF
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ [GearFlow](https://github.com/crastatelvin/GearFlow)
+
+High-throughput distributed background worker and task orchestration pipeline. Manages asynchronous job scheduling, rate-limiting, and error-recovery for heavy AI inference tasks.
+
+**Stack:** Python · Redis · Celery · FastAPI · Docker
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🕸️ [Langraph](https://github.com/crastatelvin/LAngraph)
+
+Stateful multi-actor agent orchestration system. Builds complex conversational loops and branchings with persistent memory and state management for autonomous workflows.
+
+**Stack:** LangGraph · Python · LangChain · OpenAI API
+
+</td>
+<td width="50%" valign="top">
+
+### 🩹 [Self-Healing Docs Agent](https://github.com/crastatelvin/self-healing-docs-agent)
+
+Autonomous agent that monitors codebases, detects stale documentation, and auto-generates/heals docstrings and markdown files on code changes using local LLMs.
+
+**Stack:** Python · Ollama · AST Parsing · Git API · Watchdog
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🕵️ [Forensic AI Lab](https://github.com/crastatelvin/forensic-ai-lab)
+
+Hands-on digital forensics toolkit. Evidence analysis, anomaly detection, and simulated investigations using ML + local LLMs. Built for DFIR learning.
+
+**Stack:** Python · Flask · Ollama · scikit-learn · forensic workflows
+
+</td>
+<td width="50%" valign="top">
+
+### 💾 [Mnemo Memory OS](https://github.com/crastatelvin/mnemo-memory-os)
+
+AI Personal Memory OS featuring a 3D interface for exploring memory archives with semantic constellations, semantic search, and context retrieval.
+
+**Stack:** React · Three.js · FastAPI · PostgreSQL · Hugging Face
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 👁️ [The Witness](https://github.com/crastatelvin/the-witness)
 
 Deep Telemetry & Non-Dual Intervention Engine. Monitors native OS stress (CPU/RAM) and pushes live philosophical AI interventions to an animated, God-level glassmorphism dashboard.
@@ -47,75 +155,11 @@ Deep Telemetry & Non-Dual Intervention Engine. Monitors native OS stress (CPU/RA
 </td>
 <td width="50%" valign="top">
 
-### 📡 [PULSE LLMOps](https://github.com/crastatelvin/pulse-llmops)
+### 📡 [Pulse LLMops](https://github.com/crastatelvin/pulse-llmops)
 
 Real-Time LLMOps Monitoring and Observability Platform. Captures LLM calls, tracks latency/tokens/costs, and pushes insights to a live KPI dashboard over WebSockets.
 
 **Stack:** FastAPI · React 18 · SQLite · WebSockets
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔥 [FORGE — MCP Tool Server](https://github.com/crastatelvin/forge-mcp-server)
-
-Universal MCP server exposing 10 sandboxed tools over HTTP, WebSocket, and MCP's native shape. Premium React dashboard with live stats, interactive tool tester, and inline Claude chat.
-
-**Stack:** FastAPI · Pydantic 2 · React 18 · WebSocket · Anthropic
-
-🌐 [Live Demo](https://forge-mcp-server.vercel.app) · 📚 [API Docs](https://forge-mcp-server.onrender.com/docs)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 [NEXUS Research](https://github.com/crastatelvin/nexus-research)
-
-Multi-agent research platform. Four specialized agents collaborate through a live ReactFlow pipeline, streaming progress over WebSockets and exporting a branded PDF brief.
-
-**Stack:** FastAPI · Groq (LLaMA 3.3) · React 19 · ReactFlow · jsPDF
-
-🌐 Live Demo *(coming soon)*
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚖️ [Clause AI](https://github.com/crastatelvin/clause-ai)
-
-Legal contract risk analyzer. Upload any contract or NDA → AI flags dangerous clauses, missing protections, and one-sided terms with negotiation advice in plain English.
-
-**Stack:** FastAPI · Groq · React · NLP · PDF parsing
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 [Sentinel AI](https://github.com/crastatelvin/sentinel-ai)
-
-Real-time cybersecurity threat dashboard. Upload server logs → AI classifies attacks, maps global origins, and generates remediation playbooks.
-
-**Stack:** FastAPI · Gemini · React · WebSockets · log parsing
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 [Ops Intelligence Copilot](https://github.com/crastatelvin/ops-intelligence-copilot)
-
-Upload CSV/Excel ops data → ask questions in plain English → get KPI summaries, anomaly detection, and dynamic charts. Natural-language BI for small teams.
-
-**Stack:** FastAPI · Gemini Flash · React · pandas · Recharts
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 [Forensic AI Lab](https://github.com/crastatelvin/forensic-ai-lab)
-
-Hands-on digital forensics toolkit. Evidence analysis, anomaly detection, and simulated investigations using ML + local LLMs. Built for DFIR learning.
-
-**Stack:** Python · Flask · Ollama · scikit-learn · forensic workflows
 
 </td>
 </tr>
