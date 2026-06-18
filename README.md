@@ -62,9 +62,9 @@ I am an **AI Systems Engineer & Full-Stack Developer** based in Bengaluru, India
 
 ### 📄 [Documind RAG](https://github.com/crastatelvin/TAYANA-ASSIGNMENTS)
 
-Next-generation document intelligence engine. Upload complex PDFs or datasets, query them in natural language, and get instant answers with interactive citation maps and precise text highlighting.
+Enterprise-grade RAG SaaS platform featuring multi-tenant document ingestion (PDF/DOCX), asynchronous BullMQ background workers, semantic vector search with Qdrant, and real-time streaming AI chat using Google Gemini. Built for production scalability with Redis caching and JWT security.
 
-**Stack:** Next.js · FastAPI · LLaMA 3 · LangChain · Pinecone · Tailwind CSS
+**Stack:** Node.js · Gemini AI · Qdrant · Redis · BullMQ · JWT
 
 🌐 [Live Demo](https://documind-kohl.vercel.app/)
 
@@ -73,9 +73,9 @@ Next-generation document intelligence engine. Upload complex PDFs or datasets, q
 
 ### 🧠 [Telvyn Hybrid AI](https://github.com/crastatelvin/Telvyn-Hybrid-AI)
 
-Intelligent hybrid execution interface bridging local offline models and cloud LLMs. Optimizes inference cost and latency by routing queries dynamically based on complexity and security requirements.
+A production-grade ReAct Agent powered by Llama 3.3 70B & Groq. Features Hybrid Search (Vector + BM25), real-time Web Search, technical system tools, and interactive chat-based training.
 
-**Stack:** Streamlit · Ollama · LangChain · Python · Groq · OpenAI
+**Stack:** Python · Groq · Llama 3.3 · Streamlit · BM25
 
 🌐 [Live Demo](https://telvyn-hybrid-ai-1111.streamlit.app/)
 
@@ -86,9 +86,9 @@ Intelligent hybrid execution interface bridging local offline models and cloud L
 
 ### 🔥 [Forge MCP Server](https://github.com/crastatelvin/forge-mcp-server)
 
-Universal MCP server exposing 10 sandboxed tools over HTTP, WebSocket, and MCP's native shape. Premium React dashboard with live stats, interactive tool tester, and inline Claude chat.
+Universal Model Context Protocol (MCP) server containing 10 typed system tools, a live React dashboard, and native Claude Chat integration with WebSocket streaming.
 
-**Stack:** FastAPI · Pydantic 2 · React 18 · WebSocket · Anthropic
+**Stack:** Python · FastAPI · Pydantic · WebSockets · React · Claude
 
 🌐 [Live Demo](https://forge-mcp-server.vercel.app/)
 
@@ -97,9 +97,9 @@ Universal MCP server exposing 10 sandboxed tools over HTTP, WebSocket, and MCP's
 
 ### 💎 [ONYX](https://github.com/crastatelvin/ONYX)
 
-Sleek, interactive data visualization and landing interface. Features custom canvas graphics, smooth micro-animations, and responsive layouts designed for high-end digital experiences.
+Production-grade edge AI inference platform running fully in the browser with zero backend, local model execution, and a cyber-themed mission-control interface.
 
-**Stack:** HTML5 · Vanilla JS · Tailwind CSS · GitHub Pages
+**Stack:** HTML5 · CSS3 · JavaScript · WebGPU · ONNX Runtime
 
 🌐 [Live Demo](https://crastatelvin.github.io/ONYX/)
 
@@ -110,18 +110,18 @@ Sleek, interactive data visualization and landing interface. Features custom can
 
 ### 🔍 [Nexus Research](https://github.com/crastatelvin/nexus-research)
 
-Multi-agent research platform. Four specialized agents collaborate through a live ReactFlow pipeline, streaming progress over WebSockets and exporting a branded PDF brief.
+Multi-agent AI research pipeline using specialized sequential agents (SCOUT, ANALYST, CRITIC, and SCRIBE) to crawl the web, extract findings, challenge logic, and compile structured reports.
 
-**Stack:** FastAPI · Groq (LLaMA 3.3) · React 19 · ReactFlow · jsPDF
+**Stack:** Python · LangChain · CrewAI · Tavily API · Gemini
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚙️ [GearFlow](https://github.com/crastatelvin/GearFlow)
 
-High-throughput distributed background worker and task orchestration pipeline. Manages asynchronous job scheduling, rate-limiting, and error-recovery for heavy AI inference tasks.
+Autonomous, zero-trust bike service ecosystem orchestrated via n8n workflows. Integrates AI-driven dispatching, vision-based spare part verification, and a RAG pipeline for support.
 
-**Stack:** Python · Redis · Celery · FastAPI · Docker
+**Stack:** n8n · Python · OpenCV · RAG · PostgreSQL
 
 </td>
 </tr>
@@ -130,18 +130,18 @@ High-throughput distributed background worker and task orchestration pipeline. M
 
 ### 🕸️ [Langraph](https://github.com/crastatelvin/LAngraph)
 
-Stateful multi-actor agent orchestration system. Builds complex conversational loops and branchings with persistent memory and state management for autonomous workflows.
+AI Parliament Cloud: a multi-agent, real-time decision intelligence SaaS platform orchestrated using LangGraph to simulate collaborative debate and consensus building.
 
-**Stack:** LangGraph · Python · LangChain · OpenAI API
+**Stack:** Python · LangGraph · FastAPI · WebSockets · React
 
 </td>
 <td width="50%" valign="top">
 
 ### 🩹 [Self-Healing Docs Agent](https://github.com/crastatelvin/self-healing-docs-agent)
 
-Autonomous agent that monitors codebases, detects stale documentation, and auto-generates/heals docstrings and markdown files on code changes using local LLMs.
+Autonomous local multi-agent system that eliminates documentation drift by automatically synchronizing code modifications with technical docs in real-time.
 
-**Stack:** Python · Ollama · AST Parsing · Git API · Watchdog
+**Stack:** Python · LangGraph · ChromaDB · Qwen 2.5 (7B) · Git Hooks
 
 </td>
 </tr>
@@ -150,18 +150,18 @@ Autonomous agent that monitors codebases, detects stale documentation, and auto-
 
 ### 🕵️ [Forensic AI Lab](https://github.com/crastatelvin/forensic-ai-lab)
 
-Hands-on digital forensics toolkit. Evidence analysis, anomaly detection, and simulated investigations using ML + local LLMs. Built for DFIR learning.
+Multi-role digital forensics lab containing 32 analysis modules (fingerprint, deepfake, etc.), a local Mistral chatbot, SQL case tracking, and automated ReportLab PDF generation.
 
-**Stack:** Python · Flask · Ollama · scikit-learn · forensic workflows
+**Stack:** Python · Flask · OpenCV · Ollama (Mistral) · SQLite · ReportLab
 
 </td>
 <td width="50%" valign="top">
 
 ### 💾 [Mnemo Memory OS](https://github.com/crastatelvin/mnemo-memory-os)
 
-AI Personal Memory OS featuring a 3D interface for exploring memory archives with semantic constellations, semantic search, and context retrieval.
+AI Personal Memory Operating System featuring an immersive 3D spatial user interface, semantic constellations, and interactive exploration of personal data archives.
 
-**Stack:** React · Three.js · FastAPI · PostgreSQL · Hugging Face
+**Stack:** HTML5 · JavaScript · Three.js · TensorFlow.js · WebGPU
 
 </td>
 </tr>
@@ -170,18 +170,18 @@ AI Personal Memory OS featuring a 3D interface for exploring memory archives wit
 
 ### 👁️ [The Witness](https://github.com/crastatelvin/the-witness)
 
-Deep Telemetry & Non-Dual Intervention Engine. Monitors native OS stress (CPU/RAM) and pushes live philosophical AI interventions to an animated, God-level glassmorphism dashboard.
+Real-time non-dual intervention engine and deep system telemetry dashboard featuring instant telemetry updates and low-latency state synchronizations.
 
-**Stack:** Next.js 14 · Node.js · WebSockets · Tailwind CSS · Framer Motion
+**Stack:** Next.js · Node.js · WebSockets · TailwindCSS
 
 </td>
 <td width="50%" valign="top">
 
 ### 📡 [Pulse LLMops](https://github.com/crastatelvin/pulse-llmops)
 
-Real-Time LLMOps Monitoring and Observability Platform. Captures LLM calls, tracks latency/tokens/costs, and pushes insights to a live KPI dashboard over WebSockets.
+Observability and monitoring platform designed to track LLM prompt executions, latency metrics, token consumption, and system costs to detect operational anomalies.
 
-**Stack:** FastAPI · React 18 · SQLite · WebSockets
+**Stack:** FastAPI · Pydantic · InfluxDB · Grafana · WebSockets
 
 </td>
 </tr>
