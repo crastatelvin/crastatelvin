@@ -11,11 +11,8 @@
 </p>
 
 ## 📌 About Me
-- 🤖 AI Systems Engineer & Full-Stack Developer
-- 📍 Based in Bengaluru, India
-- 🚀 I build and ship production-grade AI-native products end-to-end — from model integration and multi-agent pipelines to real-time dashboards and secure deploys.
-- 🔧 Focus on the "last mile": making AI actually usable through tight UIs, hardened back-ends, and practical applications in legal, forensics, ops, and cybersecurity.
-- 🔄 Currently rebuilding in public — all featured projects are deployed, documented, and live.
+
+I am an **AI Systems Engineer & Full-Stack Developer** based in Bengaluru, India, shipping production-grade AI-native products end-to-end—from multi-agent pipelines to real-time dashboards. I focus on the **"last mile"** of AI: bridging the gap between raw models and practical, hardened applications in legal tech, forensics, operations, and cybersecurity. Currently rebuilding in public, ensuring every featured project is fully deployed, open-source, and live.
 
 
 ## 🧠 My Focus Areas
