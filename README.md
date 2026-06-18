@@ -224,3 +224,16 @@ Hands-on digital forensics toolkit. Evidence analysis, anomaly detection, and si
 
 <p align="center"><a href="https://www.buymeacoffee.com/crastatelvin" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
+<div align="center">
+
+### A quick note on the contribution graph
+
+*This is my 2025 rebuild after losing access to my previous GitHub account. Everything pinned above is what I've shipped since — every project is deployed, every README is real, every live demo is reachable. The graph will thicken from here; the work speaks for itself in the meantime.*
+
+<br/>
+
+⭐ **If any of the projects above saved you time — or you want to talk MCP, agents, or AI-native product work — star a repo or drop me a line.**
+
+</div>
+
+
