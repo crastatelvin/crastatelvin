@@ -14,6 +14,11 @@
 
 I am an **AI Systems Engineer & Full-Stack Developer** based in Bengaluru, India, shipping production-grade AI-native products end-to-end—from multi-agent pipelines to real-time dashboards. I focus on the **"last mile"** of AI: bridging the gap between raw models and practical, hardened applications in legal tech, forensics, operations, and cybersecurity. Currently rebuilding in public, ensuring every featured project is fully deployed, open-source, and live.
 
+[![Email](https://img.shields.io/badge/Email-crastatelvin%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crastatelvin@gmail.com)
+[![Location](https://img.shields.io/badge/Based_in-Bangalore%2C_India-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Status](https://img.shields.io/badge/Open_to-Roles_%2B_Collabs-22c55e?style=for-the-badge)](#)
+[![Live Demo](https://img.shields.io/badge/🔥_Try_FORGE-forge--mcp--server.vercel.app-ff7a3d?style=for-the-badge)](https://forge-mcp-server.vercel.app)
+
 
 ## 🧠 My Focus Areas
 - 🧠 AI Systems Engineering (tool-use, multi-agent pipelines, RAG)
