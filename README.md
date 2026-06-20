@@ -60,7 +60,7 @@ I am an **AI Systems Engineer & Full-Stack Developer** based in Bengaluru, India
 <tr>
 <td width="50%" valign="top">
 
-### 📄 [Documind RAG](https://github.com/crastatelvin/TAYANA-ASSIGNMENTS)
+### 📄 [Documind RAG](https://github.com/crastatelvin/Documind)
 
 Enterprise-grade RAG SaaS platform featuring multi-tenant document ingestion (PDF/DOCX), asynchronous BullMQ background workers, semantic vector search with Qdrant, and real-time streaming AI chat using Google Gemini. Built for production scalability with Redis caching and JWT security.
 
