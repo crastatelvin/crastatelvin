@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://portfolio.crastatelvin.workers.dev/" target="_blank">
-  <img src="assets/portfolio-preview.png" width="100%" alt="Telvin Crasta — Portfolio Website (click to visit the live, animated site)" />
+  <img src="assets/portfolio-live.svg" width="100%" alt="Telvin Crasta — Live animated portfolio preview (click to visit)" />
 </a>
 
 <a href="https://portfolio.crastatelvin.workers.dev/" target="_blank">
