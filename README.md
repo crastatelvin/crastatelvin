@@ -204,9 +204,9 @@
   </picture>
 </p>
 
-<div align="center"><h3>🏙️ Live 3D Contribution City</h3></div>
+<div align="center"><h3>🧊 3D Contribution Graph</h3></div>
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
 <div align="center"><h3>👾 Contribution Space Shooter</h3></div>
