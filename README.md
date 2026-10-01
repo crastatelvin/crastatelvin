@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,29&text=TELVIN%20CRASTA&fontSize=52&fontColor=fff&fontFamily=Righteous&animation=scaleIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20%E2%9C%A6%20Full-Stack%20Developer%20%E2%9C%A6%20Agentic%20Architect&descSize=18&descAlignY=58&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20,29&text=TELVIN%20CRASTA&fontSize=54&fontColor=fff&fontFamily=Righteous&animation=scaleIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20%E2%9C%A6%20Full-Stack%20Developer%20%E2%9C%A6%20Agentic%20Architect&descSize=18&descAlignY=58&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%F0%9D%91%B7%F0%9D%92%93%F0%9D%92%82%F0%9D%92%8C%F0%9D%92%93%F0%9D%92%8A%F0%9D%92%95%F0%9D%92%86%F0%9D%92%89%20%F0%9D%91%B2%F0%9D%92%93%F0%9D%92%8A%F0%9D%92%9A%F0%9D%92%82%F0%9D%92%8E%F0%9D%92%82%F0%9D%92%8F%F0%9D%92%82%F0%9D%92%8F%F0%9D%92%8A%20%F0%9D%91%AE%F0%9D%92%96%F0%9D%92%8F%F0%9D%92%82%F0%9D%92%8A%F0%9D%92%89%20%F0%9D%91%B2%F0%9D%92%82%F0%9D%92%93%F0%9D%92%8E%F0%9D%92%82%F0%9D%92%8F%F0%9D%92%8A%20%F0%9D%91%BA%F0%9D%92%82%F0%9D%92%93%F0%9D%92%97%F0%9D%92%82%F0%9D%92%94%F0%9D%92%89%F0%9D%92%82%F0%9D%92%89%20%E0%A5%A4;%F0%9D%91%A8%F0%9D%92%89%F0%9D%92%82%F0%9D%92%8F%F0%9D%92%8C%F0%9D%92%82%F0%9D%92%93%F0%9D%92%82-%F0%9D%91%BD%F0%9D%92%8A%F0%9D%92%8E%F0%9D%92%96%F0%9D%92%85%F0%9D%92%89%F0%9D%92%82%F0%9D%92%95%F0%9D%92%8E%F0%9D%92%82%20%F0%9D%91%B2%F0%9D%92%82%F0%9D%92%93%F0%9D%92%95%F0%9D%92%82%F0%9D%92%89%F0%9D%92%82%F0%9D%92%8E%20%F0%9D%91%B0%F0%9D%92%95%F0%9D%92%8A%20%F0%9D%91%B4%F0%9D%92%82%F0%9D%92%8F%F0%9D%92%9A%F0%9D%92%82%F0%9D%92%95%F0%9D%92%86%20%E0%A5%A5;%E2%80%94%20%F0%9D%91%A9%F0%9D%92%89%F0%9D%92%82%F0%9D%92%88%F0%9D%92%82%F0%9D%92%97%F0%9D%92%82%F0%9D%92%85%20%F0%9D%91%AE%F0%9D%92%8A%F0%9D%92%95%F0%9D%92%82%203%3A27%20%E2%9C%A8" alt="Typing introduction" />
@@ -41,6 +41,7 @@ I am an **AI Systems Engineer & Full-Stack Developer** based in Bengaluru, India
   </a>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
 
 ## 🧠 My Focus Areas
 - 🧠 AI Systems Engineering (tool-use, multi-agent pipelines, RAG)
@@ -53,6 +54,7 @@ I am an **AI Systems Engineer & Full-Stack Developer** based in Bengaluru, India
 - 🛡️ Production hardening (auth, sandboxing, rate limiting)
 - 🌍 Building in public with live demos and documentation
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
 
 ## 📦 Featured Projects
 
@@ -108,6 +110,26 @@ Production-grade edge AI inference platform running fully in the browser with ze
 <tr>
 <td width="50%" valign="top">
 
+### ⚖️ [CLAUSE AI](https://github.com/crastatelvin/clause-ai)
+
+AI contract risk analyzer — upload any contract or NDA and get a lawyer-grade risk report in seconds. 18-rule regex engine across 7 legal dimensions, Groq-powered reasoning, position-aware clause highlighting, and a streaming "Ask CLAUSE" Q&A panel.
+
+**Stack:** Python · FastAPI · Groq (Llama 3.3 70B) · React · Framer Motion · WebSockets
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [Sentinel AI](https://github.com/crastatelvin/sentinel-ai)
+
+Real-time threat intelligence SOC — upload server logs and get live attack detection across 7 categories, a 3D attack-origin globe, attack-chain reconstruction, and a Gemini-generated remediation playbook.
+
+**Stack:** React · Vite · FastAPI · Gemini Flash · react-globe.gl · WebSockets
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🔍 [Nexus Research](https://github.com/crastatelvin/nexus-research)
 
 Multi-agent AI research pipeline using specialized sequential agents (SCOUT, ANALYST, CRITIC, and SCRIBE) to crawl the web, extract findings, challenge logic, and compile structured reports.
@@ -128,11 +150,11 @@ Autonomous, zero-trust bike service ecosystem orchestrated via n8n workflows. In
 <tr>
 <td width="50%" valign="top">
 
-### 🕸️ [Langraph](https://github.com/crastatelvin/LAngraph)
+### 🕉️ [Aṣṭāvakra](https://github.com/crastatelvin/Astavakra)
 
-AI Parliament Cloud: a multi-agent, real-time decision intelligence SaaS platform orchestrated using LangGraph to simulate collaborative debate and consensus building.
+Daily divine-wisdom app rendering all 298 verses of the Aṣṭāvakra Gītā as an interactive 3D glass-sphere universe on a Fibonacci cosmos, with Web-Audio tanpura soundscape, AI guru chatbot, and a high-res wallpaper exporter.
 
-**Stack:** Python · LangGraph · FastAPI · WebSockets · React
+**Stack:** Next.js 16 · TypeScript · Three.js · Web Audio API · Gemini
 
 </td>
 <td width="50%" valign="top">
@@ -170,23 +192,24 @@ AI Personal Memory Operating System featuring an immersive 3D spatial user inter
 
 ### 👁️ [The Witness](https://github.com/crastatelvin/the-witness)
 
-Real-time non-dual intervention engine and deep system telemetry dashboard featuring instant telemetry updates and low-latency state synchronizations.
+Local-first developer-wellness ecosystem: a telemetry daemon maps system stress and Git frustration to non-dual philosophy, delivering real-time interventions through a glassmorphic Next.js dashboard and a VS Code overlay.
 
-**Stack:** Next.js · Node.js · WebSockets · TailwindCSS
+**Stack:** Next.js · Rust · Python · LangChain · Ollama · ChromaDB · WebSockets
 
 </td>
 <td width="50%" valign="top">
 
-### 📡 [Pulse LLMops](https://github.com/crastatelvin/pulse-llmops)
+### 📡 [Pulse LLMOps](https://github.com/crastatelvin/pulse-llmops)
 
-Observability and monitoring platform designed to track LLM prompt executions, latency metrics, token consumption, and system costs to detect operational anomalies.
+Observability platform that captures every LLM call, computes latency / token / cost / error metrics, persists full traces, and streams a live operations dashboard over WebSockets.
 
-**Stack:** FastAPI · Pydantic · InfluxDB · Grafana · WebSockets
+**Stack:** FastAPI · Pydantic · aiosqlite · React · Recharts · Groq
 
 </td>
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -198,88 +221,113 @@ Observability and monitoring platform designed to track LLM prompt executions, l
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=crastatelvin&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="TELVIN CRASTA's GitHub Trophies" />
 </p>
+
+### 🐍 Live Contribution Snake
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=crastatelvin&theme=nightowl&radius=10" alt="crastatelvin's Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crastatelvin/crastatelvin/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crastatelvin/crastatelvin/output/github-snake.svg" />
+    <img alt="crastatelvin's contribution snake" src="https://raw.githubusercontent.com/crastatelvin/crastatelvin/output/github-snake-dark.svg" />
+  </picture>
 </p>
+
+### 🏙️ Live 3D Contribution City
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
+### 👾 Contribution Space Shooter
+<p align="center">
+  <img src="github-space-shooter.gif" alt="Space shooter contribution graph" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
 
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+  <img src="https://cdn.simpleicons.org/python" alt="Python" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/rust" alt="Rust" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css" alt="CSS3" width="42" />
 </p>
 
-<h3 align="center">AI & LLMs</h3>
+<h3 align="center">AI &amp; LLMs</h3>
 <p align="center">
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude.svg" alt="Claude" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini.svg" alt="Gemini" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/groq.svg" alt="Groq" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/ollama.svg" alt="Ollama" width="40" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" alt="OpenAI" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" alt="Claude" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" alt="Gemini" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/groq.svg" alt="Groq" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/ollama.svg" alt="Ollama" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/meta-color.svg" alt="Meta Llama" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/mistral-color.svg" alt="Mistral" width="42" />
+</p>
+<p align="center">
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" alt="LangChain" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" alt="LangGraph" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/crewai-color.svg" alt="CrewAI" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/huggingface-color.svg" alt="Hugging Face" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/nvidia-color.svg" alt="NVIDIA NIM" width="42" />
 </p>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion" width="40" />
+  <img src="https://cdn.simpleicons.org/react" alt="React" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vite" alt="Vite" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/framer" alt="Framer Motion" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/three.js" alt="Three.js" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/webgpu" alt="WebGPU" width="42" />
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pydantic/pydantic-original.svg" alt="Pydantic" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/websocket/websocket-icon.svg" alt="WebSockets" width="40" />
+  <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express" alt="Express.js" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pydantic" alt="Pydantic" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/flask" alt="Flask" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/socketdotio" alt="WebSockets / Socket.IO" width="42" />
 </p>
 
 <h3 align="center">Database</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />
+  <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/redis" alt="Redis" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/sqlite" alt="SQLite" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/qdrant" alt="Qdrant" width="42" />
 </p>
 
-<h3 align="center">DevOps & Cloud</h3>
+<h3 align="center">DevOps &amp; Cloud</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub Actions" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/render-1.svg" alt="Render" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" />
+  <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/kubernetes" alt="Kubernetes" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubactions" alt="GitHub Actions" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vercel" alt="Vercel" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/render" alt="Render" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cloudflare" alt="Cloudflare" width="42" />
 </p>
 
-<h3 align="center">Data & Analytics</h3>
+<h3 align="center">Data &amp; ML</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" />
+  <img src="https://cdn.simpleicons.org/pandas" alt="pandas" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/numpy" alt="NumPy" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/opencv" alt="OpenCV" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn" alt="scikit-learn" width="42" />
 </p>
 
 <h3 align="center">Tools</h3>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" />
+  <img src="https://cdn.simpleicons.org/git" alt="Git" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="42" />
 </p>
 
 <p align="center">
@@ -288,30 +336,28 @@ Observability and monitoring platform designed to track LLM prompt executions, l
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=crastatelvin)
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
 
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/crasta-telvin" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="42" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:crastatelvin@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="42" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/kissofdeath528" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="Discord" width="40" />
-  </a>&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/discord" alt="Discord" width="42" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/i.am.aja" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="40" />
+    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="42" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://portfolio.crastatelvin.workers.dev/" target="_blank">
+    <img src="https://cdn.simpleicons.org/cloudflarepages" alt="Portfolio" width="42" />
   </a>
 </p>
 
-<p align="center">
-  <img src="github-space-shooter.gif" alt="Space shooter contribution graph" />
-</p>
-
-<p align="center"><a href="https://www.buymeacoffee.com/crastatelvin" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/crastatelvin" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" /></a></p>
 
 <div align="center">
 
@@ -325,4 +371,4 @@ Observability and monitoring platform designed to track LLM prompt executions, l
 
 </div>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20,29&section=footer" width="100%" />
