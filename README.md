@@ -95,7 +95,6 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crastatelvin&theme=github_dark" height="165" alt="repos per language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crastatelvin&theme=github_dark" height="165" alt="most used language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crastatelvin&theme=github_dark" height="165" alt="commit stats" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crastatelvin&theme=github_dark&utc_offset=5.5" width="80%" alt="productive time" />
 
