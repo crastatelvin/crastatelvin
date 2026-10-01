@@ -61,139 +61,55 @@
   <img src="assets/headers/projects.svg" width="760" alt="Featured Projects" />
 </div>
 
-<table>
-<tr>
-<td align="center" width="50%">
-  <a href="https://github.com/crastatelvin/Documind">
-    <img src="assets/projects/documind.svg" width="100%" alt="Documind RAG" />
-  </a>
-  <br/>
-  <a href="https://github.com/crastatelvin/Documind"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
-  <a href="https://documind-kohl.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-00bcd4?style=flat-square" alt="demo" /></a>
-</td>
-<td align="center" width="50%">
-  <a href="https://github.com/crastatelvin/Telvyn-Hybrid-AI">
-    <img src="assets/projects/telvyn.svg" width="100%" alt="Telvyn Hybrid AI" />
-  </a>
-  <br/>
-  <a href="https://github.com/crastatelvin/Telvyn-Hybrid-AI"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
-  <a href="https://telvyn-hybrid-ai-1111.streamlit.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-ff4b4b?style=flat-square" alt="demo" /></a>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-  <a href="https://github.com/crastatelvin/forge-mcp-server">
-    <img src="assets/projects/forge.svg" width="100%" alt="Forge MCP Server" />
-  </a>
-  <br/>
-  <a href="https://github.com/crastatelvin/forge-mcp-server"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
-  <a href="https://forge-mcp-server.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-ff7a3d?style=flat-square" alt="demo" /></a>
-</td>
-<td align="center" width="50%">
-  <a href="https://github.com/crastatelvin/ONYX">
-    <img src="assets/projects/onyx.svg" width="100%" alt="ONYX" />
-  </a>
-  <br/>
-  <a href="https://github.com/crastatelvin/ONYX"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
-  <a href="https://crastatelvin.github.io/ONYX/"><img src="https://img.shields.io/badge/🌐_Live_Demo-22c55e?style=flat-square" alt="demo" /></a>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-  <a href="https://github.com/crastatelvin/clause-ai">
-    <img src="assets/projects/clause.svg" width="100%" alt="CLAUSE AI" />
-  </a>
-  <br/>
-  <a href="https://github.com/crastatelvin/clause-ai"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
-</td>
-<td align="center" width="50%">
-  <a href="https://github.com/crastatelvin/sentinel-ai">
-    <img src="assets/projects/sentinel.svg" width="100%" alt="Sentinel AI" />
-  </a>
-  <br/>
-  <a href="https://github.com/crastatelvin/sentinel-ai"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-  <a href="https://github.com/crastatelvin/nexus-research">
-    <img src="assets/projects/nexus.svg" width="100%" alt="Nexus Research" />
-  </a>
-  <br/>
-  <a href="https://github.com/crastatelvin/nexus-research"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
-</td>
-<td align="center" width="50%">
-  <a href="https://github.com/crastatelvin/GearFlow">
-    <img src="assets/projects/gearflow.svg" width="100%" alt="GearFlow" />
-  </a>
-  <br/>
-  <a href="https://github.com/crastatelvin/GearFlow"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-  <a href="https://github.com/crastatelvin/Astavakra">
-    <img src="assets/projects/astavakra.svg" width="100%" alt="Astavakra" />
-  </a>
-  <br/>
-  <a href="https://github.com/crastatelvin/Astavakra"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
-</td>
-<td align="center" width="50%">
-  <a href="https://github.com/crastatelvin/self-healing-docs-agent">
-    <img src="assets/projects/selfheal.svg" width="100%" alt="Self-Healing Docs Agent" />
-  </a>
-  <br/>
-  <a href="https://github.com/crastatelvin/self-healing-docs-agent"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-  <a href="https://github.com/crastatelvin/forensic-ai-lab">
-    <img src="assets/projects/forensic.svg" width="100%" alt="Forensic AI Lab" />
-  </a>
-  <br/>
-  <a href="https://github.com/crastatelvin/forensic-ai-lab"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
-</td>
-<td align="center" width="50%">
-  <a href="https://github.com/crastatelvin/mnemo-memory-os">
-    <img src="assets/projects/mnemo.svg" width="100%" alt="Mnemo Memory OS" />
-  </a>
-  <br/>
-  <a href="https://github.com/crastatelvin/mnemo-memory-os"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-  <a href="https://github.com/crastatelvin/the-witness">
-    <img src="assets/projects/witness.svg" width="100%" alt="The Witness" />
-  </a>
-  <br/>
-  <a href="https://github.com/crastatelvin/the-witness"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
-</td>
-<td align="center" width="50%">
-  <a href="https://github.com/crastatelvin/pulse-llmops">
-    <img src="assets/projects/pulse.svg" width="100%" alt="Pulse LLMOps" />
-  </a>
-  <br/>
-  <a href="https://github.com/crastatelvin/pulse-llmops"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
-</td>
-</tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/crastatelvin/Documind"><img src="assets/projects/documind.svg" width="49%" alt="Documind RAG" /></a>
+<a href="https://github.com/crastatelvin/Telvyn-Hybrid-AI"><img src="assets/projects/telvyn.svg" width="49%" alt="Telvyn Hybrid AI" /></a>
+
+<a href="https://github.com/crastatelvin/forge-mcp-server"><img src="assets/projects/forge.svg" width="49%" alt="Forge MCP Server" /></a>
+<a href="https://github.com/crastatelvin/ONYX"><img src="assets/projects/onyx.svg" width="49%" alt="ONYX" /></a>
+
+<a href="https://github.com/crastatelvin/clause-ai"><img src="assets/projects/clause.svg" width="49%" alt="CLAUSE AI" /></a>
+<a href="https://github.com/crastatelvin/sentinel-ai"><img src="assets/projects/sentinel.svg" width="49%" alt="Sentinel AI" /></a>
+
+<a href="https://github.com/crastatelvin/nexus-research"><img src="assets/projects/nexus.svg" width="49%" alt="Nexus Research" /></a>
+<a href="https://github.com/crastatelvin/GearFlow"><img src="assets/projects/gearflow.svg" width="49%" alt="GearFlow" /></a>
+
+<a href="https://github.com/crastatelvin/Astavakra"><img src="assets/projects/astavakra.svg" width="49%" alt="Astavakra" /></a>
+<a href="https://github.com/crastatelvin/self-healing-docs-agent"><img src="assets/projects/selfheal.svg" width="49%" alt="Self-Healing Docs Agent" /></a>
+
+<a href="https://github.com/crastatelvin/forensic-ai-lab"><img src="assets/projects/forensic.svg" width="49%" alt="Forensic AI Lab" /></a>
+<a href="https://github.com/crastatelvin/mnemo-memory-os"><img src="assets/projects/mnemo.svg" width="49%" alt="Mnemo Memory OS" /></a>
+
+<a href="https://github.com/crastatelvin/the-witness"><img src="assets/projects/witness.svg" width="49%" alt="The Witness" /></a>
+<a href="https://github.com/crastatelvin/pulse-llmops"><img src="assets/projects/pulse.svg" width="49%" alt="Pulse LLMOps" /></a>
+
+</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
 
 <div align="center">
   <img src="assets/headers/stats.svg" width="760" alt="GitHub Analytics" />
 </div>
-<p align="center">
-  <a href="https://github.com/crastatelvin">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=crastatelvin&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="crastatelvin's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=crastatelvin&theme=nightowl&hide_border=true&cache_seconds=86400" alt="crastatelvin's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=crastatelvin&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="TELVIN CRASTA's GitHub Trophies" />
-</p>
+
+<div align="center">
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=crastatelvin&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00FF9C&text_color=C9D1D9&ring_color=7C5CFF&cache_seconds=7200" height="165" alt="crastatelvin stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crastatelvin&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&cache_seconds=7200" height="165" alt="crastatelvin top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=crastatelvin&hide_border=true&background=0D1117&stroke=1F6FEB&ring=00E5FF&fire=FF4D6D&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B95A7&currStreakNum=FFFFFF&sideNums=FFFFFF&cache_seconds=86400" width="70%" alt="crastatelvin streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crastatelvin&theme=github_dark" width="80%" alt="crastatelvin profile summary" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crastatelvin&theme=github_dark" height="180" alt="repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crastatelvin&theme=github_dark" height="180" alt="most used language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crastatelvin&theme=github_dark&utc_offset=5.5" width="80%" alt="productive time" />
+
+<img src="https://trophy.ryglcloud.net/?username=crastatelvin&theme=nightowl&no-frame=true&no-bg=true&column=7&margin-w=4&cache_seconds=86400" width="95%" alt="crastatelvin trophies" />
+
+</div>
 
 <div align="center"><h3>🐍 Live Contribution Snake</h3></div>
 <p align="center">
