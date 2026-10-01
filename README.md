@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=crastatelvin">
-    <img src="https://komarev.com/ghpvc/?username=crastatelvin&label=Profile%20views&color=00FFFF&style=flat-square" alt="crastatelvin's profile views" />
+  <a href="https://github.com/crastatelvin">
+    <img src="https://komarev.com/ghpvc/?username=crastatelvin&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge" alt="crastatelvin's profile views" />
   </a>
 </p>
 
