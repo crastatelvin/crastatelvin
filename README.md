@@ -25,30 +25,16 @@
 </div>
 
 <p align="center">
-  <a href="mailto:crastatelvin@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=maildotru&logoColor=00E5FF&labelColor=0d1117" alt="Email" />
-  </a>
-  <a href="https://www.google.com/maps/place/Bengaluru" target="_blank">
-    <img src="https://img.shields.io/badge/BENGALURU,_IN-0d1117?style=for-the-badge&logo=googleearth&logoColor=00FF9C&labelColor=0d1117" alt="Location" />
-  </a>
-  <a href="https://www.linkedin.com/in/crasta-telvin" target="_blank">
-    <img src="https://img.shields.io/badge/OPEN_TO_WORK-0d1117?style=for-the-badge&logo=statuspage&logoColor=22C55E&labelColor=0d1117" alt="Status" />
-  </a>
+  <a href="mailto:crastatelvin@gmail.com"><img src="https://img.shields.io/badge/_Email-00E5FF?style=flat-square&logo=gmail&logoColor=0d1117" height="26" alt="Email" /></a>&nbsp;
+  <a href="https://www.google.com/maps/place/Bengaluru" target="_blank"><img src="https://img.shields.io/badge/_Bengaluru,_IN-00FF9C?style=flat-square&logo=googlemaps&logoColor=0d1117" height="26" alt="Location" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/crasta-telvin" target="_blank"><img src="https://img.shields.io/badge/_Open_to_Work-22C55E?style=flat-square&logo=handshake&logoColor=0d1117" height="26" alt="Open to work" /></a>
 </p>
 
 <p align="center">
-  <a href="https://forge-mcp-server.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/FORGE-0d1117?style=for-the-badge&logo=serverfault&logoColor=FF7A3D&labelColor=0d1117" alt="Try FORGE" />
-  </a>
-  <a href="https://documind-kohl.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/DOCUMIND-0d1117?style=for-the-badge&logo=readthedocs&logoColor=00BCD4&labelColor=0d1117" alt="Try Documind" />
-  </a>
-  <a href="https://telvyn-hybrid-ai-1111.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/TELVYN_AI-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B&labelColor=0d1117" alt="Try Telvyn AI" />
-  </a>
-  <a href="https://crastatelvin.github.io/ONYX/" target="_blank">
-    <img src="https://img.shields.io/badge/ONYX-0d1117?style=for-the-badge&logo=webgl&logoColor=22C55E&labelColor=0d1117" alt="Try ONYX" />
-  </a>
+  <a href="https://forge-mcp-server.vercel.app" target="_blank"><img src="https://img.shields.io/badge/▸_FORGE-FF7A3D?style=flat-square&logo=serverfault&logoColor=0d1117" height="26" alt="Try FORGE" /></a>&nbsp;
+  <a href="https://documind-kohl.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/▸_DOCUMIND-00BCD4?style=flat-square&logo=readthedocs&logoColor=0d1117" height="26" alt="Try Documind" /></a>&nbsp;
+  <a href="https://telvyn-hybrid-ai-1111.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/▸_TELVYN_AI-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="26" alt="Try Telvyn AI" /></a>&nbsp;
+  <a href="https://crastatelvin.github.io/ONYX/" target="_blank"><img src="https://img.shields.io/badge/▸_ONYX-22C55E?style=flat-square&logo=webgl&logoColor=0d1117" height="26" alt="Try ONYX" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
@@ -92,7 +78,6 @@
 
 </div>
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
 
 <div align="center">
@@ -108,8 +93,9 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crastatelvin&theme=github_dark" width="80%" alt="crastatelvin profile summary" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crastatelvin&theme=github_dark" height="180" alt="repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crastatelvin&theme=github_dark" height="180" alt="most used language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crastatelvin&theme=github_dark" height="165" alt="repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crastatelvin&theme=github_dark" height="165" alt="most used language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crastatelvin&theme=github_dark" height="165" alt="commit stats" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crastatelvin&theme=github_dark&utc_offset=5.5" width="80%" alt="productive time" />
 
@@ -117,24 +103,10 @@
 
 </div>
 
-<div align="center"><h3>🐍 Live Contribution Snake</h3></div>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crastatelvin/crastatelvin/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crastatelvin/crastatelvin/output/github-snake.svg" />
-    <img alt="crastatelvin's contribution snake" src="https://raw.githubusercontent.com/crastatelvin/crastatelvin/output/github-snake-dark.svg" />
-  </picture>
-</p>
-
 <div align="center"><h3>🧊 3D Contribution Graph</h3></div>
 <div align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </div>
-
-<div align="center"><h3>👾 Contribution Space Shooter</h3></div>
-<p align="center">
-  <img src="github-space-shooter.gif" alt="Space shooter contribution graph" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
 
@@ -198,5 +170,10 @@
 ⭐ **If any of the projects above saved you time — or you want to talk MCP, agents, or AI-native product work — star a repo or drop me a line.**
 
 </div>
+
+<div align="center"><h3>👾 Contribution Space Shooter</h3></div>
+<p align="center">
+  <img src="github-space-shooter.gif" alt="Space shooter contribution graph" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20,29&section=footer" width="100%" />
