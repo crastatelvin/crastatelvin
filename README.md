@@ -12,9 +12,11 @@
 
 ## 📌 About Me
 
-I am an **AI Systems Engineer & Full-Stack Developer** based in Bengaluru, India, shipping production-grade AI-native products end-to-end—from multi-agent pipelines to real-time dashboards. I focus on the **"last mile"** of AI: bridging the gap between raw models and practical, hardened applications in legal tech, forensics, operations, and cybersecurity. Currently rebuilding in public, ensuring every featured project is fully deployed, open-source, and live.
+<div align="center">
+  <img src="assets/about-me.svg" width="100%" alt="About Telvin Crasta — neural identity console" />
+</div>
 
-<p align="left">
+<p align="center">
   <a href="mailto:crastatelvin@gmail.com">
     <img src="https://img.shields.io/badge/Email-crastatelvin%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -26,7 +28,7 @@ I am an **AI Systems Engineer & Full-Stack Developer** based in Bengaluru, India
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://forge-mcp-server.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🔥_Try_FORGE-forge--mcp--server.vercel.app-ff7a3d?style=for-the-badge" alt="Try FORGE" />
   </a>
