@@ -119,7 +119,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Initializing+stack...;%3E+loading+AI+%2F+LLM+modules;%3E+mounting+full-stack+arsenal;%3E+systems+online+✓" alt="stack boot sequence" />
+<img src="assets/boot-sequence.svg" alt="stack boot sequence" width="640" />
 
 <br/>
 
