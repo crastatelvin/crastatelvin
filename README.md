@@ -44,15 +44,10 @@ I am an **AI Systems Engineer & Full-Stack Developer** based in Bengaluru, India
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
 
 ## 🧠 My Focus Areas
-- 🧠 AI Systems Engineering (tool-use, multi-agent pipelines, RAG)
-- ⚛️ Full-Stack Development
-- 📡 Real-time Observability & LLMOps (WebSockets, dashboards, metrics)
-- 🔐 Cybersecurity & Ops Intelligence
-- 🕵️ Privacy-first AI applications & Digital Forensics
-- ⚖️ Legal tech (contract analysis, risk flagging)
-- 🤝 Agentic workflows & Autonomous systems
-- 🛡️ Production hardening (auth, sandboxing, rate limiting)
-- 🌍 Building in public with live demos and documentation
+
+<div align="center">
+  <img src="assets/focus-areas.svg" width="100%" alt="Focus areas — holographic scrolling panel" />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
 
