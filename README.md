@@ -1,6 +1,10 @@
 <div align="center">
 
 <a href="https://portfolio.crastatelvin.workers.dev/" target="_blank">
+  <img src="assets/portfolio.webp" width="100%" alt="Telvin Crasta — Portfolio (click to visit the live animated site)" />
+</a>
+
+<a href="https://portfolio.crastatelvin.workers.dev/" target="_blank">
   <img src="https://img.shields.io/badge/▶_VISIT_LIVE_PORTFOLIO-portfolio.crastatelvin.workers.dev-00E5FF?style=for-the-badge&labelColor=0d1117" alt="Visit live portfolio" />
 </a>
 
