@@ -18,28 +18,28 @@
 
 <p align="center">
   <a href="mailto:crastatelvin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-crastatelvin%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=maildotru&logoColor=00E5FF&labelColor=0d1117" alt="Email" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Based_in-Bangalore%2C_India-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <a href="https://www.google.com/maps/place/Bengaluru" target="_blank">
+    <img src="https://img.shields.io/badge/BENGALURU,_IN-0d1117?style=for-the-badge&logo=googleearth&logoColor=00FF9C&labelColor=0d1117" alt="Location" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Open_to-Roles_%2B_Collabs-22c55e?style=for-the-badge" alt="Status" />
+  <a href="https://www.linkedin.com/in/crasta-telvin" target="_blank">
+    <img src="https://img.shields.io/badge/OPEN_TO_WORK-0d1117?style=for-the-badge&logo=statuspage&logoColor=22C55E&labelColor=0d1117" alt="Status" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://forge-mcp-server.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🔥_Try_FORGE-forge--mcp--server.vercel.app-ff7a3d?style=for-the-badge" alt="Try FORGE" />
+    <img src="https://img.shields.io/badge/FORGE-0d1117?style=for-the-badge&logo=serverfault&logoColor=FF7A3D&labelColor=0d1117" alt="Try FORGE" />
   </a>
   <a href="https://documind-kohl.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/⚡_Try_Documind-documind--kohl.vercel.app-00bcd4?style=for-the-badge" alt="Try Documind" />
+    <img src="https://img.shields.io/badge/DOCUMIND-0d1117?style=for-the-badge&logo=readthedocs&logoColor=00BCD4&labelColor=0d1117" alt="Try Documind" />
   </a>
   <a href="https://telvyn-hybrid-ai-1111.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🤖_Try_Telvyn_AI-streamlit.app-ff4b4b?style=for-the-badge" alt="Try Telvyn AI" />
+    <img src="https://img.shields.io/badge/TELVYN_AI-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B&labelColor=0d1117" alt="Try Telvyn AI" />
   </a>
   <a href="https://crastatelvin.github.io/ONYX/" target="_blank">
-    <img src="https://img.shields.io/badge/💎_Try_ONYX-github.io%2FONYX-22c55e?style=for-the-badge" alt="Try ONYX" />
+    <img src="https://img.shields.io/badge/ONYX-0d1117?style=for-the-badge&logo=webgl&logoColor=22C55E&labelColor=0d1117" alt="Try ONYX" />
   </a>
 </p>
 
