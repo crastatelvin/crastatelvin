@@ -58,156 +58,125 @@ I am an **AI Systems Engineer & Full-Stack Developer** based in Bengaluru, India
 
 ## 📦 Featured Projects
 
-<table>
+<table border="0" cellspacing="0" cellpadding="8">
 <tr>
-<td width="50%" valign="top">
-
-### 📄 [Documind RAG](https://github.com/crastatelvin/Documind)
-
-Enterprise-grade RAG SaaS platform featuring multi-tenant document ingestion (PDF/DOCX), asynchronous BullMQ background workers, semantic vector search with Qdrant, and real-time streaming AI chat using Google Gemini. Built for production scalability with Redis caching and JWT security.
-
-**Stack:** Node.js · Gemini AI · Qdrant · Redis · BullMQ · JWT
-
-🌐 [Live Demo](https://documind-kohl.vercel.app/)
-
+<td align="center" width="50%">
+  <a href="https://github.com/crastatelvin/Documind">
+    <img src="assets/projects/documind.svg" width="100%" alt="Documind RAG" />
+  </a>
+  <br/>
+  <a href="https://github.com/crastatelvin/Documind"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
+  <a href="https://documind-kohl.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-00bcd4?style=flat-square" alt="demo" /></a>
 </td>
-<td width="50%" valign="top">
-
-### 🧠 [Telvyn Hybrid AI](https://github.com/crastatelvin/Telvyn-Hybrid-AI)
-
-A production-grade ReAct Agent powered by Llama 3.3 70B & Groq. Features Hybrid Search (Vector + BM25), real-time Web Search, technical system tools, and interactive chat-based training.
-
-**Stack:** Python · Groq · Llama 3.3 · Streamlit · BM25
-
-🌐 [Live Demo](https://telvyn-hybrid-ai-1111.streamlit.app/)
-
+<td align="center" width="50%">
+  <a href="https://github.com/crastatelvin/Telvyn-Hybrid-AI">
+    <img src="assets/projects/telvyn.svg" width="100%" alt="Telvyn Hybrid AI" />
+  </a>
+  <br/>
+  <a href="https://github.com/crastatelvin/Telvyn-Hybrid-AI"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
+  <a href="https://telvyn-hybrid-ai-1111.streamlit.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-ff4b4b?style=flat-square" alt="demo" /></a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🔥 [Forge MCP Server](https://github.com/crastatelvin/forge-mcp-server)
-
-Universal Model Context Protocol (MCP) server containing 10 typed system tools, a live React dashboard, and native Claude Chat integration with WebSocket streaming.
-
-**Stack:** Python · FastAPI · Pydantic · WebSockets · React · Claude
-
-🌐 [Live Demo](https://forge-mcp-server.vercel.app/)
-
+<td align="center" width="50%">
+  <a href="https://github.com/crastatelvin/forge-mcp-server">
+    <img src="assets/projects/forge.svg" width="100%" alt="Forge MCP Server" />
+  </a>
+  <br/>
+  <a href="https://github.com/crastatelvin/forge-mcp-server"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
+  <a href="https://forge-mcp-server.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-ff7a3d?style=flat-square" alt="demo" /></a>
 </td>
-<td width="50%" valign="top">
-
-### 💎 [ONYX](https://github.com/crastatelvin/ONYX)
-
-Production-grade edge AI inference platform running fully in the browser with zero backend, local model execution, and a cyber-themed mission-control interface.
-
-**Stack:** HTML5 · CSS3 · JavaScript · WebGPU · ONNX Runtime
-
-🌐 [Live Demo](https://crastatelvin.github.io/ONYX/)
-
+<td align="center" width="50%">
+  <a href="https://github.com/crastatelvin/ONYX">
+    <img src="assets/projects/onyx.svg" width="100%" alt="ONYX" />
+  </a>
+  <br/>
+  <a href="https://github.com/crastatelvin/ONYX"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
+  <a href="https://crastatelvin.github.io/ONYX/"><img src="https://img.shields.io/badge/🌐_Live_Demo-22c55e?style=flat-square" alt="demo" /></a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### ⚖️ [CLAUSE AI](https://github.com/crastatelvin/clause-ai)
-
-AI contract risk analyzer — upload any contract or NDA and get a lawyer-grade risk report in seconds. 18-rule regex engine across 7 legal dimensions, Groq-powered reasoning, position-aware clause highlighting, and a streaming "Ask CLAUSE" Q&A panel.
-
-**Stack:** Python · FastAPI · Groq (Llama 3.3 70B) · React · Framer Motion · WebSockets
-
+<td align="center" width="50%">
+  <a href="https://github.com/crastatelvin/clause-ai">
+    <img src="assets/projects/clause.svg" width="100%" alt="CLAUSE AI" />
+  </a>
+  <br/>
+  <a href="https://github.com/crastatelvin/clause-ai"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
 </td>
-<td width="50%" valign="top">
-
-### 🛡️ [Sentinel AI](https://github.com/crastatelvin/sentinel-ai)
-
-Real-time threat intelligence SOC — upload server logs and get live attack detection across 7 categories, a 3D attack-origin globe, attack-chain reconstruction, and a Gemini-generated remediation playbook.
-
-**Stack:** React · Vite · FastAPI · Gemini Flash · react-globe.gl · WebSockets
-
+<td align="center" width="50%">
+  <a href="https://github.com/crastatelvin/sentinel-ai">
+    <img src="assets/projects/sentinel.svg" width="100%" alt="Sentinel AI" />
+  </a>
+  <br/>
+  <a href="https://github.com/crastatelvin/sentinel-ai"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🔍 [Nexus Research](https://github.com/crastatelvin/nexus-research)
-
-Multi-agent AI research pipeline using specialized sequential agents (SCOUT, ANALYST, CRITIC, and SCRIBE) to crawl the web, extract findings, challenge logic, and compile structured reports.
-
-**Stack:** Python · LangChain · CrewAI · Tavily API · Gemini
-
+<td align="center" width="50%">
+  <a href="https://github.com/crastatelvin/nexus-research">
+    <img src="assets/projects/nexus.svg" width="100%" alt="Nexus Research" />
+  </a>
+  <br/>
+  <a href="https://github.com/crastatelvin/nexus-research"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
 </td>
-<td width="50%" valign="top">
-
-### ⚙️ [GearFlow](https://github.com/crastatelvin/GearFlow)
-
-Autonomous, zero-trust bike service ecosystem orchestrated via n8n workflows. Integrates AI-driven dispatching, vision-based spare part verification, and a RAG pipeline for support.
-
-**Stack:** n8n · Python · OpenCV · RAG · PostgreSQL
-
+<td align="center" width="50%">
+  <a href="https://github.com/crastatelvin/GearFlow">
+    <img src="assets/projects/gearflow.svg" width="100%" alt="GearFlow" />
+  </a>
+  <br/>
+  <a href="https://github.com/crastatelvin/GearFlow"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🕉️ [Aṣṭāvakra](https://github.com/crastatelvin/Astavakra)
-
-Daily divine-wisdom app rendering all 298 verses of the Aṣṭāvakra Gītā as an interactive 3D glass-sphere universe on a Fibonacci cosmos, with Web-Audio tanpura soundscape, AI guru chatbot, and a high-res wallpaper exporter.
-
-**Stack:** Next.js 16 · TypeScript · Three.js · Web Audio API · Gemini
-
+<td align="center" width="50%">
+  <a href="https://github.com/crastatelvin/Astavakra">
+    <img src="assets/projects/astavakra.svg" width="100%" alt="Astavakra" />
+  </a>
+  <br/>
+  <a href="https://github.com/crastatelvin/Astavakra"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
 </td>
-<td width="50%" valign="top">
-
-### 🩹 [Self-Healing Docs Agent](https://github.com/crastatelvin/self-healing-docs-agent)
-
-Autonomous local multi-agent system that eliminates documentation drift by automatically synchronizing code modifications with technical docs in real-time.
-
-**Stack:** Python · LangGraph · ChromaDB · Qwen 2.5 (7B) · Git Hooks
-
+<td align="center" width="50%">
+  <a href="https://github.com/crastatelvin/self-healing-docs-agent">
+    <img src="assets/projects/selfheal.svg" width="100%" alt="Self-Healing Docs Agent" />
+  </a>
+  <br/>
+  <a href="https://github.com/crastatelvin/self-healing-docs-agent"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🕵️ [Forensic AI Lab](https://github.com/crastatelvin/forensic-ai-lab)
-
-Multi-role digital forensics lab containing 32 analysis modules (fingerprint, deepfake, etc.), a local Mistral chatbot, SQL case tracking, and automated ReportLab PDF generation.
-
-**Stack:** Python · Flask · OpenCV · Ollama (Mistral) · SQLite · ReportLab
-
+<td align="center" width="50%">
+  <a href="https://github.com/crastatelvin/forensic-ai-lab">
+    <img src="assets/projects/forensic.svg" width="100%" alt="Forensic AI Lab" />
+  </a>
+  <br/>
+  <a href="https://github.com/crastatelvin/forensic-ai-lab"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
 </td>
-<td width="50%" valign="top">
-
-### 💾 [Mnemo Memory OS](https://github.com/crastatelvin/mnemo-memory-os)
-
-AI Personal Memory Operating System featuring an immersive 3D spatial user interface, semantic constellations, and interactive exploration of personal data archives.
-
-**Stack:** HTML5 · JavaScript · Three.js · TensorFlow.js · WebGPU
-
+<td align="center" width="50%">
+  <a href="https://github.com/crastatelvin/mnemo-memory-os">
+    <img src="assets/projects/mnemo.svg" width="100%" alt="Mnemo Memory OS" />
+  </a>
+  <br/>
+  <a href="https://github.com/crastatelvin/mnemo-memory-os"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 👁️ [The Witness](https://github.com/crastatelvin/the-witness)
-
-Local-first developer-wellness ecosystem: a telemetry daemon maps system stress and Git frustration to non-dual philosophy, delivering real-time interventions through a glassmorphic Next.js dashboard and a VS Code overlay.
-
-**Stack:** Next.js · Rust · Python · LangChain · Ollama · ChromaDB · WebSockets
-
+<td align="center" width="50%">
+  <a href="https://github.com/crastatelvin/the-witness">
+    <img src="assets/projects/witness.svg" width="100%" alt="The Witness" />
+  </a>
+  <br/>
+  <a href="https://github.com/crastatelvin/the-witness"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
 </td>
-<td width="50%" valign="top">
-
-### 📡 [Pulse LLMOps](https://github.com/crastatelvin/pulse-llmops)
-
-Observability platform that captures every LLM call, computes latency / token / cost / error metrics, persists full traces, and streams a live operations dashboard over WebSockets.
-
-**Stack:** FastAPI · Pydantic · aiosqlite · React · Recharts · Groq
-
+<td align="center" width="50%">
+  <a href="https://github.com/crastatelvin/pulse-llmops">
+    <img src="assets/projects/pulse.svg" width="100%" alt="Pulse LLMOps" />
+  </a>
+  <br/>
+  <a href="https://github.com/crastatelvin/pulse-llmops"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="code" /></a>
 </td>
 </tr>
 </table>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
 
