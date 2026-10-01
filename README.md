@@ -119,10 +119,6 @@
 
 <div align="center">
 
-<img src="assets/boot-sequence.svg" alt="stack boot sequence" width="640" />
-
-<br/>
-
 <kbd>🧠 &nbsp; A I &nbsp; / &nbsp; L L M s</kbd>
 
 <img src="assets/tech-marquee-ai.svg" alt="AI and LLM stack marquee" width="100%" />
