@@ -154,10 +154,6 @@
 
 <img src="assets/tech-marquee-infra.svg" alt="data, devops and ml marquee" width="100%" />
 
-<br/>
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crastatelvin&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
