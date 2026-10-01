@@ -45,6 +45,8 @@
   </a>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
+
 <div align="center">
   <img src="assets/headers/focus.svg" width="760" alt="Focus Areas" />
 </div>
@@ -52,6 +54,8 @@
 <div align="center">
   <img src="assets/focus-areas.svg" width="100%" alt="Focus areas — holographic scrolling panel" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
 
 <div align="center">
   <img src="assets/headers/projects.svg" width="760" alt="Featured Projects" />
@@ -176,6 +180,8 @@
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
+
 <div align="center">
   <img src="assets/headers/stats.svg" width="760" alt="GitHub Analytics" />
 </div>
@@ -208,6 +214,8 @@
   <img src="github-space-shooter.gif" alt="Space shooter contribution graph" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
+
 <div align="center">
   <img src="assets/headers/arsenal.svg" width="760" alt="Tech Arsenal" />
 </div>
@@ -235,6 +243,8 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crastatelvin&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
 
 <div align="center">
   <img src="assets/headers/connect.svg" width="760" alt="Connect" />
