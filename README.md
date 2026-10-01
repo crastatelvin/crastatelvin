@@ -10,7 +10,9 @@
   </a>
 </p>
 
-## 📌 About Me
+<div align="center">
+  <img src="assets/headers/about.svg" width="760" alt="About Me" />
+</div>
 
 <div align="center">
   <img src="assets/about-me.svg" width="100%" alt="About Telvin Crasta — neural identity console" />
@@ -43,19 +45,19 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
-
-## 🧠 My Focus Areas
+<div align="center">
+  <img src="assets/headers/focus.svg" width="760" alt="Focus Areas" />
+</div>
 
 <div align="center">
   <img src="assets/focus-areas.svg" width="100%" alt="Focus areas — holographic scrolling panel" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
+<div align="center">
+  <img src="assets/headers/projects.svg" width="760" alt="Featured Projects" />
+</div>
 
-## 📦 Featured Projects
-
-<table border="0" cellspacing="0" cellpadding="8">
+<table>
 <tr>
 <td align="center" width="50%">
   <a href="https://github.com/crastatelvin/Documind">
@@ -174,10 +176,9 @@
 </tr>
 </table>
 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
-
-## 📊 GitHub Stats & Trophies
+<div align="center">
+  <img src="assets/headers/stats.svg" width="760" alt="GitHub Analytics" />
+</div>
 <p align="center">
   <a href="https://github.com/crastatelvin">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=crastatelvin&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="crastatelvin's GitHub Stats" />
@@ -188,7 +189,7 @@
   <img src="https://trophy.ryglcloud.net/?username=crastatelvin&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="TELVIN CRASTA's GitHub Trophies" />
 </p>
 
-### 🐍 Live Contribution Snake
+<div align="center"><h3>🐍 Live Contribution Snake</h3></div>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crastatelvin/crastatelvin/output/github-snake-dark.svg" />
@@ -197,19 +198,19 @@
   </picture>
 </p>
 
-### 🏙️ Live 3D Contribution City
+<div align="center"><h3>🏙️ Live 3D Contribution City</h3></div>
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
-### 👾 Contribution Space Shooter
+<div align="center"><h3>👾 Contribution Space Shooter</h3></div>
 <p align="center">
   <img src="github-space-shooter.gif" alt="Space shooter contribution graph" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
-
-## 🛠️ Tech Arsenal
+<div align="center">
+  <img src="assets/headers/arsenal.svg" width="760" alt="Tech Arsenal" />
+</div>
 
 <div align="center">
 
@@ -235,9 +236,9 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
-
-## 🔗 Connect with Me
+<div align="center">
+  <img src="assets/headers/connect.svg" width="760" alt="Connect" />
+</div>
 <p align="center">
   <a href="https://www.linkedin.com/in/crasta-telvin" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="42" />
