@@ -243,98 +243,94 @@ Observability platform that captures every LLM call, computes latency / token / 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Arsenal
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/python" alt="Python" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/rust" alt="Rust" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/css" alt="CSS3" width="42" />
-</p>
+<div align="center">
 
-<h3 align="center">AI &amp; LLMs</h3>
-<p align="center">
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" alt="OpenAI" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" alt="Claude" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" alt="Gemini" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/groq.svg" alt="Groq" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/ollama.svg" alt="Ollama" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/meta-color.svg" alt="Meta Llama" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/mistral-color.svg" alt="Mistral" width="42" />
-</p>
-<p align="center">
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" alt="LangChain" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" alt="LangGraph" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/crewai-color.svg" alt="CrewAI" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/huggingface-color.svg" alt="Hugging Face" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/nvidia-color.svg" alt="NVIDIA NIM" width="42" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Initializing+stack...;%3E+loading+AI+%2F+LLM+modules;%3E+mounting+full-stack+arsenal;%3E+systems+online+✓" alt="stack boot sequence" />
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/react" alt="React" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vite" alt="Vite" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/framer" alt="Framer Motion" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/three.js" alt="Three.js" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/webgpu" alt="WebGPU" width="42" />
-</p>
+<br/><br/>
 
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/express" alt="Express.js" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pydantic" alt="Pydantic" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/flask" alt="Flask" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/socketdotio" alt="WebSockets / Socket.IO" width="42" />
-</p>
+<!-- ================= AI / LLM (colored badges — always visible on dark) ================= -->
+<kbd>🧠 &nbsp; A I &nbsp; / &nbsp; L L M s</kbd>
+<br/><br/>
 
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/redis" alt="Redis" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/sqlite" alt="SQLite" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/qdrant" alt="Qdrant" width="42" />
-</p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/Meta%20Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Llama" />
+<img src="https://img.shields.io/badge/Mistral-FA520F?style=for-the-badge&logo=mistralai&logoColor=white" alt="Mistral" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI" />
+<img src="https://img.shields.io/badge/NVIDIA%20NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA NIM" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
 
-<h3 align="center">DevOps &amp; Cloud</h3>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/kubernetes" alt="Kubernetes" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/githubactions" alt="GitHub Actions" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vercel" alt="Vercel" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/render" alt="Render" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cloudflare" alt="Cloudflare" width="42" />
-</p>
+<br/><br/>
 
-<h3 align="center">Data &amp; ML</h3>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/pandas" alt="pandas" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/numpy" alt="NumPy" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/opencv" alt="OpenCV" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn" alt="scikit-learn" width="42" />
-</p>
+<!-- ================= skillicons grids (uniform, dark-safe tiles) ================= -->
+<kbd>💻 &nbsp; L A N G U A G E S</kbd>
+<br/><br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,rust,html,css&theme=dark&perline=6" alt="languages" />
+</a>
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/git" alt="Git" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="42" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="42" />
-</p>
+<br/><br/>
 
-<p align="center">
-  <a href="https://github.com/crastatelvin">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crastatelvin&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+<kbd>🎨 &nbsp; F R O N T E N D</kbd>
+<br/><br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs&theme=dark&perline=5" alt="frontend" />
+</a>
+
+<br/><br/>
+
+<kbd>⚙️ &nbsp; B A C K E N D</kbd>
+<br/><br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,n8n&theme=dark&perline=5" alt="backend" />
+</a>
+
+<br/><br/>
+
+<kbd>🗄️ &nbsp; D A T A B A S E</kbd>
+<br/><br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite&theme=dark&perline=4" alt="database" />
+</a>
+
+<br/><br/>
+
+<kbd>☁️ &nbsp; D E V O P S &nbsp; & &nbsp; C L O U D</kbd>
+<br/><br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,vercel,cloudflare,gcp&theme=dark&perline=6" alt="devops" />
+</a>
+
+<br/><br/>
+
+<kbd>📊 &nbsp; D A T A &nbsp; & &nbsp; M L</kbd>
+<br/><br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark&perline=4" alt="data and ml" />
+</a>
+
+<br/><br/>
+
+<kbd>🧩 &nbsp; T O O L S</kbd>
+<br/><br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,postman,figma,linux,bash&theme=dark&perline=5" alt="tools" />
+</a>
+
+<br/><br/>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crastatelvin&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
 
