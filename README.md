@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://portfolio.crastatelvin.workers.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/▶_VISIT_LIVE_PORTFOLIO-portfolio.crastatelvin.workers.dev-00E5FF?style=for-the-badge&labelColor=0d1117" alt="Visit live portfolio" />
+  <img src="assets/visit-portfolio.svg" alt="Visit live portfolio" height="52" />
 </a>
 
 </div>
@@ -15,9 +15,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/crastatelvin">
-    <img src="https://komarev.com/ghpvc/?username=crastatelvin&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge" alt="crastatelvin's profile views" />
-  </a>
+  <a href="https://github.com/crastatelvin"><img src="https://komarev.com/ghpvc/?username=crastatelvin&label=PROFILE%20VIEWS&color=00e5ff&style=flat&base=0" alt="profile views" height="22" /></a>
+  &nbsp;
+  <a href="https://github.com/crastatelvin?tab=followers"><img src="https://img.shields.io/github/followers/crastatelvin?style=flat&logo=github&logoColor=00e5ff&label=FOLLOWERS&labelColor=0d1117&color=0d1117" alt="followers" height="22" /></a>
+  &nbsp;
+  <a href="https://github.com/crastatelvin?tab=repositories"><img src="https://img.shields.io/github/stars/crastatelvin?style=flat&logo=github&logoColor=ffb020&label=STARS&labelColor=0d1117&color=0d1117" alt="stars" height="22" /></a>
 </p>
 
 <div align="center">
