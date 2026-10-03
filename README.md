@@ -22,6 +22,8 @@
   <a href="https://github.com/crastatelvin?tab=repositories"><img src="https://img.shields.io/github/stars/crastatelvin?style=flat&logo=github&logoColor=ffb020&label=STARS&labelColor=0d1117&color=0d1117" alt="stars" height="22" /></a>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
+
 <div align="center">
   <img src="assets/headers/about.svg" width="760" alt="About Me" />
 </div>
@@ -177,4 +179,6 @@
   <img src="github-space-shooter.gif" alt="Space shooter contribution graph" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20,29&section=footer" width="100%" />
+<div align="center">
+  <img src="assets/footer.svg" alt="End of transmission" width="100%" />
+</div>
