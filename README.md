@@ -94,19 +94,19 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=crastatelvin&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00FF9C&text_color=C9D1D9&ring_color=7C5CFF&cache_seconds=7200" height="165" alt="crastatelvin stats" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crastatelvin&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&cache_seconds=7200" height="165" alt="crastatelvin top languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=crastatelvin&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00FF9C&text_color=C9D1D9&ring_color=7C5CFF&_t=1791038342" height="165" alt="crastatelvin stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crastatelvin&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&_t=1791038341" height="165" alt="crastatelvin top languages" />
 
-<img src="https://streak-stats.demolab.com/?user=crastatelvin&hide_border=true&background=0D1117&stroke=1F6FEB&ring=00E5FF&fire=FF4D6D&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B95A7&currStreakNum=FFFFFF&sideNums=FFFFFF&cache_seconds=86400" width="70%" alt="crastatelvin streak" />
+<img src="https://streak-stats.demolab.com/?user=crastatelvin&hide_border=true&background=0D1117&stroke=1F6FEB&ring=00E5FF&fire=FF4D6D&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B95A7&currStreakNum=FFFFFF&sideNums=FFFFFF&_t=1791038340" width="70%" alt="crastatelvin streak" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crastatelvin&theme=github_dark" width="80%" alt="crastatelvin profile summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crastatelvin&theme=github_dark&_t=1791038339" width="80%" alt="crastatelvin profile summary" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crastatelvin&theme=github_dark" height="165" alt="repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crastatelvin&theme=github_dark" height="165" alt="most used language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crastatelvin&theme=github_dark&_t=1791038338" height="165" alt="repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crastatelvin&theme=github_dark&_t=1791038337" height="165" alt="most used language" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crastatelvin&theme=github_dark&utc_offset=5.5" width="80%" alt="productive time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crastatelvin&theme=github_dark&utc_offset=5.5&_t=1791038336" width="80%" alt="productive time" />
 
-<img src="https://trophy.ryglcloud.net/?username=crastatelvin&theme=nightowl&no-frame=true&no-bg=true&column=7&margin-w=4&cache_seconds=86400" width="95%" alt="crastatelvin trophies" />
+<img src="https://trophy.ryglcloud.net/?username=crastatelvin&theme=nightowl&no-frame=true&no-bg=true&column=7&margin-w=4&_t=1791038335" width="95%" alt="crastatelvin trophies" />
 
 </div>
 
