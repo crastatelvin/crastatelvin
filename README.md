@@ -92,22 +92,28 @@
 
 <div align="center">
 
-<img src="assets/analytics/stats.svg" alt="Stats" height="165" />
-<img src="assets/analytics/top-langs.svg" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=crastatelvin&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00FF9C&text_color=C9D1D9&ring_color=7C5CFF&cache_seconds=7200" height="165" alt="crastatelvin stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crastatelvin&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&cache_seconds=7200" height="165" alt="crastatelvin top languages" />
 
-<img src="assets/analytics/streak.svg" width="70%" alt="Streak" />
+<img src="https://streak-stats.demolab.com/?user=crastatelvin&hide_border=true&background=0D1117&stroke=1F6FEB&ring=00E5FF&fire=FF4D6D&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B95A7&currStreakNum=FFFFFF&sideNums=FFFFFF&cache_seconds=86400" width="70%" alt="crastatelvin streak" />
 
-<img src="assets/analytics/profile-details.svg" width="80%" alt="Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crastatelvin&theme=github_dark" width="80%" alt="crastatelvin profile summary" />
 
-<img src="assets/analytics/repos-per-lang.svg" height="165" alt="Repos per Language" />
-<img src="assets/analytics/most-commit-lang.svg" height="165" alt="Most Used Language" />
-<img src="assets/analytics/trophies.svg" height="165" alt="Trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crastatelvin&theme=github_dark" height="165" alt="repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crastatelvin&theme=github_dark" height="165" alt="most used language" />
 
-<img src="assets/analytics/productive-time.svg" width="80%" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crastatelvin&theme=github_dark&utc_offset=5.5" width="80%" alt="productive time" />
+
+<img src="https://trophy.ryglcloud.net/?username=crastatelvin&theme=nightowl&no-frame=true&no-bg=true&column=7&margin-w=4&cache_seconds=86400" width="95%" alt="crastatelvin trophies" />
 
 </div>
 
+<div align="center"><h3>🧊 3D Contribution Graph</h3></div>
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
 
 <div align="center">
   <img src="assets/headers/arsenal.svg" width="760" alt="Tech Arsenal" />
@@ -130,62 +136,6 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
-
-<div align="center">
-  <img src="assets/headers/connect.svg" width="760" alt="Connect" />
-</div>
-<p align="center">
-  <a href="https://www.linkedin.com/in/crasta-telvin" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="42" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:crastatelvin@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="42" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/kissofdeath528" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord" alt="Discord" width="42" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/i.am.aja" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="42" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://portfolio.crastatelvin.workers.dev/" target="_blank">
-    <img src="https://cdn.simpleicons.org/cloudflarepages" alt="Portfolio" width="42" />
-  </a>
-</p>
-
-<p align="center"><a href="https://buymeacoffee.com/telvincrasta" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" /></a></p>
-
-<div align="center">
-
-### A quick note on the contribution graph
-
-*This is my 2025 rebuild after losing access to my previous GitHub account. Everything pinned above is what I've shipped since — every project is deployed, every README is real, every live demo is reachable. The graph will thicken from here; the work speaks for itself in the meantime.*
-
-<br/>
-
-⭐ **If any of the projects above saved you time — or you want to talk MCP, agents, or AI-native product work — star a repo or drop me a line.**
-
-</div>
-
-<div align="center">
-  <img src="assets/headers/stats.svg" width="760" alt="GitHub Analytics" />
-</div>
-
-<div align="center">
-
-<img src="assets/analytics/stats.svg" alt="Stats" height="165" />
-<img src="assets/analytics/top-langs.svg" alt="Top Languages" height="165" />
-
-<img src="assets/analytics/streak.svg" width="70%" alt="Streak" />
-
-<img src="assets/analytics/profile-details.svg" width="80%" alt="Profile Summary" />
-
-<img src="assets/analytics/repos-per-lang.svg" height="165" alt="Repos per Language" />
-<img src="assets/analytics/most-commit-lang.svg" height="165" alt="Most Used Language" />
-<img src="assets/analytics/trophies.svg" height="165" alt="Trophies" />
-
-<img src="assets/analytics/productive-time.svg" width="80%" alt="Productive Time" />
-
-</div>
 
 <div align="center">
   <img src="assets/headers/connect.svg" width="760" alt="Connect" />
