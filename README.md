@@ -29,21 +29,18 @@
 </div>
 
 <div align="center">
-  <img src="assets/about-me.svg" width="100%" alt="About Telvin Crasta — neural identity console" />
+  <img src="assets/about-me-v2.svg" width="100%" alt="Telvin Crasta — Neural Identity Console" />
 </div>
 
-<p align="center">
-  <a href="mailto:crastatelvin@gmail.com"><img src="https://img.shields.io/badge/_Email-00E5FF?style=flat-square&logo=gmail&logoColor=0d1117" height="26" alt="Email" /></a>&nbsp;
-  <a href="https://www.google.com/maps/place/Bengaluru" target="_blank"><img src="https://img.shields.io/badge/_Bengaluru,_IN-00FF9C?style=flat-square&logo=googlemaps&logoColor=0d1117" height="26" alt="Location" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/crasta-telvin" target="_blank"><img src="https://img.shields.io/badge/_Open_to_Work-22C55E?style=flat-square&logo=handshake&logoColor=0d1117" height="26" alt="Open to work" /></a>
-</p>
-
-<p align="center">
-  <a href="https://forge-mcp-server.vercel.app" target="_blank"><img src="https://img.shields.io/badge/▸_FORGE-FF7A3D?style=flat-square&logo=serverfault&logoColor=0d1117" height="26" alt="Try FORGE" /></a>&nbsp;
-  <a href="https://documind-kohl.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/▸_DOCUMIND-00BCD4?style=flat-square&logo=readthedocs&logoColor=0d1117" height="26" alt="Try Documind" /></a>&nbsp;
-  <a href="https://telvyn-hybrid-ai-1111.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/▸_TELVYN_AI-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="26" alt="Try Telvyn AI" /></a>&nbsp;
-  <a href="https://crastatelvin.github.io/ONYX/" target="_blank"><img src="https://img.shields.io/badge/▸_ONYX-22C55E?style=flat-square&logo=webgl&logoColor=0d1117" height="26" alt="Try ONYX" /></a>
-</p>
+<div align="center">
+  <a href="mailto:crastatelvin@gmail.com" target="_blank"><img src="assets/links/email.svg" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://www.google.com/maps/place/Bengaluru" target="_blank"><img src="assets/links/loc.svg" alt="Location" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/crasta-telvin" target="_blank"><img src="assets/links/work.svg" alt="Open to Work" /></a>&nbsp;&nbsp;
+  <a href="https://forge-mcp-server.vercel.app" target="_blank"><img src="assets/links/forge.svg" alt="Try FORGE" /></a>&nbsp;&nbsp;
+  <a href="https://documind-kohl.vercel.app/" target="_blank"><img src="assets/links/docu.svg" alt="Try Documind" /></a>&nbsp;&nbsp;
+  <a href="https://telvyn-hybrid-ai-1111.streamlit.app/" target="_blank"><img src="assets/links/telvyn.svg" alt="Try Telvyn AI" /></a>&nbsp;&nbsp;
+  <a href="https://crastatelvin.github.io/ONYX/" target="_blank"><img src="assets/links/onyx.svg" alt="Try ONYX" /></a>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
 
