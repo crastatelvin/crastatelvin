@@ -33,7 +33,13 @@
 </div>
 
 <div align="center">
-  <a href="mailto:crastatelvin@gmail.com" target="_blank"><img src="assets/contact-buttons.svg" alt="Contact & Links" width="880" /></a>
+  <a href="mailto:crastatelvin@gmail.com" target="_blank"><img src="assets/btns/email.svg" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://www.google.com/maps/place/Bengaluru" target="_blank"><img src="assets/btns/loc.svg" alt="Location" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/crasta-telvin" target="_blank"><img src="assets/btns/linkedin.svg" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://forge-mcp-server.vercel.app" target="_blank"><img src="assets/btns/forge.svg" alt="Try FORGE" /></a>&nbsp;&nbsp;
+  <a href="https://documind-kohl.vercel.app/" target="_blank"><img src="assets/btns/docu.svg" alt="Try Documind" /></a>&nbsp;&nbsp;
+  <a href="https://telvyn-hybrid-ai-1111.streamlit.app/" target="_blank"><img src="assets/btns/telvyn.svg" alt="Try Telvyn AI" /></a>&nbsp;&nbsp;
+  <a href="https://crastatelvin.github.io/ONYX/" target="_blank"><img src="assets/btns/onyx.svg" alt="Try ONYX" /></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />
