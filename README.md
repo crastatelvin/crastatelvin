@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/about-me-v2.svg" width="100%" alt="Telvin Crasta — Neural Identity Console" />
+  <img src="assets/about-me-v3.svg" width="100%" alt="Telvin Crasta — Holographic Identity Portal" />
 </div>
 
 <div align="center">
