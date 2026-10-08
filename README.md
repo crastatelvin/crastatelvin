@@ -72,7 +72,7 @@
 <a href="https://github.com/crastatelvin/nexus-research"><img src="assets/projects/nexus.svg" width="49%" alt="Nexus Research" /></a>
 <a href="https://github.com/crastatelvin/GearFlow"><img src="assets/projects/gearflow.svg" width="49%" alt="GearFlow" /></a>
 
-<a href="https://github.com/crastatelvin/Astavakra"><img src="assets/projects/astavakra.svg" width="49%" alt="Astavakra" /></a>
+<a href="https://ashtavakra-gita-summit.vercel.app"><img src="assets/projects/astavakra.svg" width="49%" alt="Astavakra" /></a>
 <a href="https://github.com/crastatelvin/self-healing-docs-agent"><img src="assets/projects/selfheal.svg" width="49%" alt="Self-Healing Docs Agent" /></a>
 
 <a href="https://github.com/crastatelvin/forensic-ai-lab"><img src="assets/projects/forensic.svg" width="49%" alt="Forensic AI Lab" /></a>
