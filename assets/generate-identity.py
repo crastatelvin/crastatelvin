@@ -8,9 +8,13 @@ proxy, with no external fonts or scripts. Every coordinate is derived, so
 labels can be re-worded here without hand-placing anything.
 """
 
+import base64
 import math
 import pathlib
 import random
+
+HERE = pathlib.Path(__file__).resolve().parent
+AVATAR = HERE / "avatar.jpg"
 
 W, H = 900, 420
 
@@ -104,6 +108,13 @@ add('<linearGradient id="ruleG" x1="0" y1="0" x2="1" y2="0">'
     f'<stop offset="0" stop-color="{CYAN}"/>'
     '<stop offset="0.6" stop-color="#7C5CFF" stop-opacity="0.5"/>'
     '<stop offset="1" stop-color="#7C5CFF" stop-opacity="0"/></linearGradient>')
+# a light vignette only; the portrait is already dark and a heavy wash
+# swallows the face
+add('<linearGradient id="shade" x1="0.2" y1="0" x2="0.6" y2="1">'
+    '<stop offset="0" stop-color="#05070E" stop-opacity="0"/>'
+    '<stop offset="0.62" stop-color="#05070E" stop-opacity="0.10"/>'
+    '<stop offset="1" stop-color="#05070E" stop-opacity="0.42"/>'
+    "</linearGradient>")
 add('<radialGradient id="sweep" cx="0.5" cy="0.5" r="0.5">'
     '<stop offset="0" stop-color="#22E7F5" stop-opacity="0.30"/>'
     '<stop offset="1" stop-color="#22E7F5" stop-opacity="0"/></radialGradient>')
@@ -381,40 +392,62 @@ for i, (_, _, col, _, _, _) in enumerate(node_xy):
         f'<animateMotion dur="{30 + OUT_RX / 3:.0f}s" begin="{i * 5}s" '
         f'repeatCount="indefinite" path="{ring_path}"/></circle>')
 
-# core
+# core: hexagonal portrait, masked to the same shape as the frame
+HEX_R = 52
 hexpts = []
 for k in range(6):
     a = math.radians(60 * k - 90)
-    hexpts.append(f"{cx0 + 46 * math.cos(a):.1f} {cy0 + 46 * math.sin(a):.1f}")
+    hexpts.append(f"{cx0 + HEX_R * math.cos(a):.1f} {cy0 + HEX_R * math.sin(a):.1f}")
 hexpath = "M" + "L".join(hexpts) + "Z"
 
-add(f'<circle cx="{cx0}" cy="{cy0}" r="54" fill="{CYAN}" fill-opacity="0.10" '
+add(f'<clipPath id="hexclip"><path d="{hexpath}"/></clipPath>')
+
+add(f'<circle cx="{cx0}" cy="{cy0}" r="62" fill="{CYAN}" fill-opacity="0.10" '
     f'filter="url(#bloom)">'
     f'<animate attributeName="fill-opacity" values="0.07;0.17;0.07" dur="4.5s" '
     f'repeatCount="indefinite"/></circle>')
-add(f'<path d="{hexpath}" fill="#070B14" stroke="{VIOLET}" '
-    f'stroke-opacity="0.35" stroke-width="1" '
+
+# the portrait, inlined: an SVG referenced through <img> cannot fetch
+# external resources, so the bytes have to travel with the file
+if AVATAR.exists():
+    b64 = base64.b64encode(AVATAR.read_bytes()).decode()
+    add(f'<g clip-path="url(#hexclip)">'
+        f'<image href="data:image/jpeg;base64,{b64}" '
+        f'x="{cx0 - HEX_R:.1f}" y="{cy0 - HEX_R:.1f}" '
+        f'width="{HEX_R * 2}" height="{HEX_R * 2}" '
+        f'preserveAspectRatio="xMidYMid slice"/>'
+        f'<rect x="{cx0 - HEX_R:.1f}" y="{cy0 - HEX_R:.1f}" '
+        f'width="{HEX_R * 2}" height="{HEX_R * 2}" fill="url(#shade)"/>'
+        f'</g>')
+else:
+    add(f'<path d="{hexpath}" fill="#070B14"/>')
+
+add(f'<path d="{hexpath}" fill="none" stroke="{VIOLET}" '
+    f'stroke-opacity="0.4" stroke-width="1" '
     f'transform="rotate(30 {cx0} {cy0})">'
     f'<animateTransform attributeName="transform" type="rotate" '
     f'from="30 {cx0} {cy0}" to="390 {cx0} {cy0}" dur="24s" '
     f'repeatCount="indefinite"/></path>')
-add(f'<path d="{hexpath}" fill="#070B14" stroke="{CYAN}" '
-    f'stroke-opacity="0.85" stroke-width="1.6" filter="url(#glow)"/>')
-add(f'<path d="{hexpath}" fill="none" stroke="{CYAN}" stroke-opacity="0.5" '
+add(f'<path d="{hexpath}" fill="none" stroke="{CYAN}" '
+    f'stroke-opacity="0.9" stroke-width="1.8" filter="url(#glow)"/>')
+add(f'<path d="{hexpath}" fill="none" stroke="{CYAN}" stroke-opacity="0.55" '
     f'stroke-width="1.4" stroke-dasharray="7 9">'
     f'<animateTransform attributeName="transform" type="rotate" '
     f'from="360 {cx0} {cy0}" to="-360 {cx0} {cy0}" dur="9s" '
     f'repeatCount="indefinite"/></path>')
-add(f'<text x="{cx0}" y="{cy0 + 5}" fill="{CYAN}" font-family="{FONT}" '
-    f'font-size="26" font-weight="700" text-anchor="middle" '
-    f'filter="url(#softGlow)">TC</text>')
-add(f'<text x="{cx0}" y="{cy0 + 22}" fill="{MID}" font-family="{MONO}" '
-    f'font-size="7.5" letter-spacing="2" text-anchor="middle">'
-    f'TELVIN CRASTA</text>')
+
+add(f'<rect x="{cx0 - HEX_R - 9:.1f}" y="{cy0 + HEX_R - 9:.1f}" '
+    f'width="{mono_w("TELVIN CRASTA", 7.5) + 16:.0f}" height="17" rx="8.5" '
+    f'fill="#070B14" fill-opacity="0.82" stroke="{CYAN}" '
+    f'stroke-opacity="0.3" stroke-width="1"/>')
+add(f'<text x="{cx0}" y="{cy0 + HEX_R + 3:.1f}" fill="{MID}" '
+    f'font-family="{MONO}" font-size="7.5" letter-spacing="2" '
+    f'text-anchor="middle">TELVIN CRASTA</text>')
 
 add("</g>")
 add("</svg>")
 
-dest = pathlib.Path(__file__).resolve().parent / "identity-core.svg"
+dest = HERE / "identity-core.svg"
 dest.write_text("\n".join(out), encoding="utf-8")
-print(f"wrote {dest.name}  ({dest.stat().st_size} bytes)")
+print(f"wrote {dest.name}  ({dest.stat().st_size} bytes)"
+      f"{'' if AVATAR.exists() else '  [no avatar.jpg: core left empty]'}")
