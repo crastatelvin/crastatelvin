@@ -33,13 +33,13 @@
 </div>
 
 <div align="center">
-  <a href="mailto:crastatelvin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-crastatelvin%40gmail.com-00E5FF?style=flat&logo=gmail&logoColor=white" alt="Email Telvin Crasta" height="28" /></a>&nbsp;&nbsp;
-  <a href="https://www.google.com/maps/place/Bengaluru" target="_blank"><img src="https://img.shields.io/badge/LOCATION-Bengaluru%2C%20India-00E5FF?style=flat&logo=googlemaps&logoColor=white" alt="Bengaluru, India" height="28" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/crasta-telvin" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-Open%20to%20Work-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn profile" height="28" /></a>&nbsp;&nbsp;
-  <a href="https://forge-mcp-server.vercel.app" target="_blank"><img src="https://img.shields.io/badge/FORGE-MCP%20Tool%20Server-7C5CFF?style=flat&logo=github&logoColor=white" alt="Try FORGE MCP server" height="28" /></a>&nbsp;&nbsp;
-  <a href="https://documind-kohl.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/DOCUMIND-RAG%20Document%20System-00FF9C?style=flat" alt="Try Documind" height="28" /></a>&nbsp;&nbsp;
-  <a href="https://telvyn-hybrid-ai-1111.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/TELVYN%20AI-Hybrid%20ReAct%20Agent-FF6B6B?style=flat" alt="Try Telvyn AI" height="28" /></a>&nbsp;&nbsp;
-  <a href="https://crastatelvin.github.io/ONYX/" target="_blank"><img src="https://img.shields.io/badge/ONYX-Edge%20AI%20Inference-FFB020?style=flat" alt="Try ONYX" height="28" /></a>
+  <a href="mailto:crastatelvin@gmail.com" target="_blank"><img src="assets/btns/mail.svg" alt="Email Telvin Crasta" height="44" /></a>&nbsp;&nbsp;
+  <a href="https://www.google.com/maps/place/Bengaluru" target="_blank"><img src="assets/btns/loc.svg" alt="Bengaluru, India" height="44" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/crasta-telvin" target="_blank"><img src="assets/btns/linkedin.svg" alt="LinkedIn profile" height="44" /></a>&nbsp;&nbsp;
+  <a href="https://forge-mcp-server.vercel.app" target="_blank"><img src="assets/btns/forge.svg" alt="Try FORGE MCP server" height="44" /></a>&nbsp;&nbsp;
+  <a href="https://documind-kohl.vercel.app/" target="_blank"><img src="assets/btns/documind.svg" alt="Try Documind" height="44" /></a>&nbsp;&nbsp;
+  <a href="https://telvyn-hybrid-ai-1111.streamlit.app/" target="_blank"><img src="assets/btns/telvyn.svg" alt="Try Telvyn AI" height="44" /></a>&nbsp;&nbsp;
+  <a href="https://crastatelvin.github.io/ONYX/" target="_blank"><img src="assets/btns/onyx.svg" alt="Try ONYX" height="44" /></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />

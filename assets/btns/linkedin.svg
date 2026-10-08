@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="226.6" height="44" viewBox="0 0 226.6 44" fill="none" role="img" aria-label="LINKEDIN: Open to work">
+<title>LINKEDIN — Open to work</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1b2434"/><stop offset="1" stop-color="#0b0f17"/></linearGradient>
+<filter id="glow" x="-40%" y="-60%" width="180%" height="220%"><feGaussianBlur stdDeviation="1.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="0.6" y="0.6" width="225.4" height="42.8" rx="21.4" fill="url(#bg)" stroke="#0A66C2" stroke-opacity="0.38" stroke-width="1.2"/>
+<g transform="translate(16,12.0)" fill="#0A66C2" color="#0A66C2" filter="url(#glow)">
+<g transform="scale(0.83333)"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.03-3.03-1.85-3.03-1.86 0-2.14 1.45-2.14 2.94v5.66H9.35V9h3.41v1.56h.05a3.74 3.74 0 0 1 3.37-1.85c3.6 0 4.27 2.37 4.27 5.46zM5.34 7.43a2.07 2.07 0 1 1 0-4.14 2.07 2.07 0 0 1 0 4.14zM7.12 20.45H3.55V9h3.57zM22.22 0H1.77C.79 0 0 .77 0 1.72v20.56C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.72V1.72C24 .77 23.2 0 22.22 0z" fill="currentColor"/></g>
+</g>
+<text x="47" y="26.68" fill="#e6f7ff" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="13" font-weight="700">LINKEDIN</text>
+<circle cx="120.4" cy="22.0" r="2.0" fill="#0A66C2" fill-opacity="0.5"/>
+<text x="131.4" y="25.96" fill="#8b95a7" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="11">Open to work</text>
+</svg>
