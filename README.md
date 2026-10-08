@@ -39,7 +39,8 @@
   <a href="https://forge-mcp-server.vercel.app" target="_blank"><img src="assets/btns/forge.svg" alt="Try FORGE MCP server" height="44" /></a>&nbsp;&nbsp;
   <a href="https://documind-kohl.vercel.app/" target="_blank"><img src="assets/btns/documind.svg" alt="Try Documind" height="44" /></a>&nbsp;&nbsp;
   <a href="https://telvyn-hybrid-ai-1111.streamlit.app/" target="_blank"><img src="assets/btns/telvyn.svg" alt="Try Telvyn AI" height="44" /></a>&nbsp;&nbsp;
-  <a href="https://crastatelvin.github.io/ONYX/" target="_blank"><img src="assets/btns/onyx.svg" alt="Try ONYX" height="44" /></a>
+  <a href="https://crastatelvin.github.io/ONYX/" target="_blank"><img src="assets/btns/onyx.svg" alt="Try ONYX" height="44" /></a>&nbsp;&nbsp;
+  <a href="https://ashtavakra-gita-summit.vercel.app" target="_blank"><img src="assets/btns/astavakra.svg" alt="Try Ashtavakra" height="44" /></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20,29&section=header" width="100%" />

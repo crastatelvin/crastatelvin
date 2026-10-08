@@ -70,6 +70,8 @@ ICONS = {
     "doc": icon('<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8zm0 2.5L17.5 8H14zM8 12h8v1.8H8zm0 3.6h8v1.8H8z" fill="currentColor"/>'),
     "brain": icon('<path d="M12 3a4 4 0 0 0-4 4 3.5 3.5 0 0 0-2 6.2A3.5 3.5 0 0 0 9 19a3 3 0 0 0 3-2 3 3 0 0 0 3 2 3.5 3.5 0 0 0 3-5.8A3.5 3.5 0 0 0 16 7a4 4 0 0 0-4-4zm0 2v14" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>'),
     "cpu": icon('<path d="M9 2v3H7a2 2 0 0 0-2 2v2H2v2h3v2H2v2h3v2a2 2 0 0 0 2 2h2v3h2v-3h2v3h2v-3h2a2 2 0 0 0 2-2v-2h3v-2h-3v-2h3V9h-3V7a2 2 0 0 0-2-2h-2V2h-2v3h-2V2zm0 5h6a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H9a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1zm2 3v4h2v-4z" fill="currentColor"/>'),
+    # open book over a flame: the Ashtavakra Gita journey
+    "gita": icon('<path d="M12 5.5c-1.6-1.3-3.7-2-6-2H3v14h3c2.3 0 4.4.7 6 2 1.6-1.3 3.7-2 6-2h3v-14h-3c-2.3 0-4.4.7-6 2zm0 2.2c1.4-1 3.2-1.7 5-1.7h1v10.6c-1.8 0-3.6.6-5 1.6zm-2-.1v10.4c-1.4-1-3.2-1.6-5-1.6V6h1c1.8 0 3.6.7 5 1.6z" fill="currentColor"/>'),
 }
 
 PILLS = [
@@ -80,6 +82,7 @@ PILLS = [
     ("documind.svg", "DOCUMIND", "RAG Document System", "#00FF9C", "doc"),
     ("telvyn.svg", "TELVYN AI", "Hybrid ReAct Agent", "#FF6B6B", "brain"),
     ("onyx.svg", "ONYX", "Edge AI Inference", "#FFB020", "cpu"),
+    ("astavakra.svg", "ASTAVAKRA", "3D Gita Journey", "#FFD24A", "gita"),
 ]
 
 out = pathlib.Path(__file__).resolve().parent
