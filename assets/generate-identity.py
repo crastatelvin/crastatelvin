@@ -32,13 +32,13 @@ LO = "#5A6B80"
 FONT = "'Segoe UI',Helvetica,Arial,sans-serif"
 MONO = "'Fira Code',Consolas,'Liberation Mono',monospace"
 
-CORE = (700, 206)
+CORE = (686, 208)
 
 # the orbit map needs to clear both the panel edge and its own labels,
-# which extend past the node by roughly the label width plus a 13px gap
+# which extend past the node by roughly the label width plus a gap
 LABEL_PAD = 13
-ORBIT_RX = 116
-ORBIT_RY = 84
+ORBIT_RX = 150
+ORBIT_RY = 108
 LABEL_MAX = W - 26
 
 DOMAINS = [
@@ -304,7 +304,7 @@ add(f'<text x="{LX + 18}" y="366" fill="{GREEN}" font-family="{MONO}" '
 cx0, cy0 = CORE
 
 # radar sweep
-SWEEP_R = 150
+SWEEP_R = 186
 add(f'<g><path d="M{cx0} {cy0}L{cx0 + SWEEP_R} {cy0}'
     f'A{SWEEP_R} {SWEEP_R} 0 0 1 '
     f'{cx0 + SWEEP_R * 0.707:.0f} {cy0 - SWEEP_R * 0.707:.0f}Z" '
@@ -344,14 +344,16 @@ for i, (label, col) in enumerate(DOMAINS):
     deg = -90 + i * 60
     x, y = on_ring(OUT_RX, OUT_RY, OUT_ROT, deg)
     w = mono_w(label, 9, 0.62) + 5
-    # prefer the label outboard of the node; flip it inboard only if that
-    # side has no room, since pulling it back would sit it on the dot
-    if x + LABEL_PAD + w <= LABEL_MAX:
-        lx, anchor = x + LABEL_PAD, "start"
-    elif x - LABEL_PAD - w >= 26:
-        lx, anchor = x - LABEL_PAD, "end"
-    else:
-        lx, anchor = min(x + LABEL_PAD, LABEL_MAX - w), "start"
+    # point the label away from the core: stations left of centre get it on
+    # their left, stations on the right get it on their right. Placing by
+    # "whatever fits" instead pushes inboard labels into the hexagon.
+    out_left = x < cx0
+    lx = x - LABEL_PAD if out_left else x + LABEL_PAD
+    anchor = "end" if out_left else "start"
+    # only if that runs off the panel, flip to the other side
+    if lx - w < 26 if out_left else lx + w > LABEL_MAX:
+        lx = x + LABEL_PAD if out_left else x - LABEL_PAD
+        anchor = "start" if out_left else "end"
     node_xy.append((x, y, col, label, lx, anchor))
 
 # spokes from the core to each station
@@ -393,7 +395,7 @@ for i, (_, _, col, _, _, _) in enumerate(node_xy):
         f'repeatCount="indefinite" path="{ring_path}"/></circle>')
 
 # core: hexagonal portrait, masked to the same shape as the frame
-HEX_R = 52
+HEX_R = 68
 hexpts = []
 for k in range(6):
     a = math.radians(60 * k - 90)
@@ -402,7 +404,7 @@ hexpath = "M" + "L".join(hexpts) + "Z"
 
 add(f'<clipPath id="hexclip"><path d="{hexpath}"/></clipPath>')
 
-add(f'<circle cx="{cx0}" cy="{cy0}" r="62" fill="{CYAN}" fill-opacity="0.10" '
+add(f'<circle cx="{cx0}" cy="{cy0}" r="80" fill="{CYAN}" fill-opacity="0.10" '
     f'filter="url(#bloom)">'
     f'<animate attributeName="fill-opacity" values="0.07;0.17;0.07" dur="4.5s" '
     f'repeatCount="indefinite"/></circle>')
@@ -435,14 +437,6 @@ add(f'<path d="{hexpath}" fill="none" stroke="{CYAN}" stroke-opacity="0.55" '
     f'<animateTransform attributeName="transform" type="rotate" '
     f'from="360 {cx0} {cy0}" to="-360 {cx0} {cy0}" dur="9s" '
     f'repeatCount="indefinite"/></path>')
-
-add(f'<rect x="{cx0 - HEX_R - 9:.1f}" y="{cy0 + HEX_R - 9:.1f}" '
-    f'width="{mono_w("TELVIN CRASTA", 7.5) + 16:.0f}" height="17" rx="8.5" '
-    f'fill="#070B14" fill-opacity="0.82" stroke="{CYAN}" '
-    f'stroke-opacity="0.3" stroke-width="1"/>')
-add(f'<text x="{cx0}" y="{cy0 + HEX_R + 3:.1f}" fill="{MID}" '
-    f'font-family="{MONO}" font-size="7.5" letter-spacing="2" '
-    f'text-anchor="middle">TELVIN CRASTA</text>')
 
 add("</g>")
 add("</svg>")
