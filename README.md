@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/about-me-v3.svg" width="100%" alt="Telvin Crasta — Holographic Identity Portal" />
+  <img src="assets/identity-core.svg" width="100%" alt="Telvin Crasta — AI Systems Engineer and Full-Stack Developer" />
 </div>
 
 <div align="center">
